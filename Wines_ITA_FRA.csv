@@ -950,7 +950,7 @@ Vintage;Country;County;Designation;Points;Price;Province;Winery
 01/01/2008;Italy;Barolo;Torriglione;88;  60 ,00;Piedmont;Mario Gagliasso
 01/01/2008;France;Champagne;Cuvée des Moines Brut Millésime;93;  90 ,00;Champagne;Besserat de Bellefon
 01/01/2008;France;Côtes du Roussillon Villages;Hugo;93;  60 ,00;Languedoc Roussillon;Domaine Thunevin Calvet
-01/01/2008;France;Vin de Pays d Oc;"B&G; Reserve";87;  9 ,00;Languedoc Roussillon;Barton & Guestier
+01/01/2008;France;Vin de Pays d Oc;B&G Reserve;87;  9 ,00;Languedoc Roussillon;Barton & Guestier
 01/01/2008;France;Médoc;Famille Lapalu;86;  10 ,00;Bordeaux;Domaines Lapalu
 01/01/2008;Italy;Franciacorta;Brut;90;  45 ,00;Lombardy;Ronco Calino
 01/01/2008;Italy;Montecucco;Rigoleto;87;  18 ,00;Tuscany;Collemassari
@@ -4362,4 +4362,4 @@ Vintage;Country;County;Designation;Points;Price;Province;Winery
 01/01/2016;France;Coteaux d Aix en Provence;Pigoudet Première;86;  13 ,00;Provence;Château Pigoudet
 01/01/2016;France;Coteaux Varois en Provence;Terres de Saint Louis;85;  11 ,00;Provence;Estandon
 01/01/2016;France;Ile de Beauté;Alivetto;87;  16 ,00;France Other;Les Vins Bréban
-###############################################################################################################################################################################################################################################################;Italy;Prosecco;Cuvèe 1821 Brut;86;  15 ,00;Veneto;Zonin
+;Italy;Prosecco;Cuvèe 1821 Brut;86;  15 ,00;Veneto;Zonin
