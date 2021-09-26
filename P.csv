@@ -1,0 +1,1750 @@
+id;country;designation;points;price;province;region_1;winery
+6;Italy;Belsito;87;16;Sicily & Sardinia;Vittoria;Terre di Giurfo
+22;Italy;Ficiligno;87;19;Sicily & Sardinia;Sicilia;Baglio di Pianetto
+24;Italy;Aynat;87;35;Sicily & Sardinia;Sicilia;Canicattì
+26;Italy;Dalila;87;13;Sicily & Sardinia;Terre Siciliane;Stemmari
+28;Italy;Mascaria Barricato;87;17;Sicily & Sardinia;Cerasuolo di Vittoria;Terre di Giurfo
+37;Italy;Missoni;86;21;Sicily & Sardinia;Sicilia;Feudi del Pisciotto
+38;Italy;I Tratturi;86;11;Southern Italy;Puglia;Feudi di San Marzano
+39;Italy;Purato Made With Organic Grapes;86;12;Sicily & Sardinia;Sicilia;Feudo di Santa Tresa
+46;Italy;Sallier de la Tour;86;13;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+52;Italy;Dolia;85;14;Sicily & Sardinia;Monica di Sardegna;Cantine di Dolianova
+57;Italy;Sallier de la Tour;85;13;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+61;Italy;Prugneto;86;17;Central Italy;Romagna;Podere dal Nespoli
+72;Italy;Daginestra;86;32;Southern Italy;Aglianico del Vulture;Grifalco
+88;Italy;Le Mandorle Riserva;86;29;Tuscany;Vernaccia di San Gimignano;Poggio Alloro
+98;Italy;Dono Riserva;88;30;Tuscany;Morellino di Scansano;Serpaia di Endrizzi
+104;Italy;Nativo;87;16;Tuscany;Toscana;Madonna Alta
+105;Italy;Villa Antinori;87;14;Tuscany;Toscana;Marchesi Antinori
+106;Italy;Castiglioni;87;30;Tuscany;Toscana;Marchesi de' Frescobaldi
+107;Italy;Ammiraglia Massovivo;87;18;Tuscany;Toscana;Marchesi de' Frescobaldi
+109;Italy;Le Volte;87;30;Tuscany;Toscana;Ornellaia
+112;Italy;Semifonte;87;15;Tuscany;Toscana;Podere Ciona
+113;Italy;Poetico;87;19;Tuscany;Toscana;Poggioventoso
+118;Italy;Toscano;87;80;Tuscany;Toscana;Tenuta Forconi
+120;Italy;Bricco Rocche Prapó;92;70;Piedmont;Barolo;Ceretto
+130;Italy;Bricco Rocche Brunate;91;70;Piedmont;Barolo;Ceretto
+135;Italy;Sorano;91;60;Piedmont;Barolo;Giacomo Ascheri
+140;Italy;Costa Bruna;90;26;Piedmont;Barbera d'Alba;Poderi Colla
+141;Italy;Vigna dei Pola;90;45;Piedmont;Barolo;Giacomo Ascheri
+158;Italy;Bellezza Gran Selezione;91;38;Tuscany;Chianti Classico;Castello di Gabbiano
+175;Italy;De Silva;88;25;Northeastern Italy;Alto Adige;Tenuta Peter Sölva & Söhne
+187;Italy;Montenero;88;48;Sicily & Sardinia;Sicilia;Abbazia Santa Anastasia
+190;Italy;Campole;87;26;Southern Italy;Campania;Fattoria Alois
+192;Italy;Le Pietre Santambrogio;87;20;Veneto;Rosso del Veronese;Aldegheri
+195;Italy;Riserva;87;35;Tuscany;Vino Nobile di Montepulciano;Carpineto
+196;Italy;Pancole;87;18;Tuscany;Vernaccia di San Gimignano;Cesani
+201;Italy;Nova Domus Riserva;90;62;Northeastern Italy;Alto Adige;Terlan
+221;Italy;Passion Riserva;90;40;Northeastern Italy;Alto Adige;St. Pauls
+234;Italy;Cerasuolo Rosè;85;10;Central Italy;Montepulciano d'Abruzzo;Talamonti
+267;Italy;Torre di Giano Vigna il Pino;89;40;Central Italy;Torgiano;Lungarotti
+268;Italy;Terso;89;36;Veneto;Veneto;Marchesi Fumanelli
+272;Italy;Sirmian;89;26;Northeastern Italy;Alto Adige;Nals Margreid
+274;Italy;Estrosa;89;13;Piedmont;Monferrato;Pico Maccario
+282;Italy;Dulcamara;92;41;Tuscany;Toscana;I Giusti e Zanza
+303;Italy;4 Vigne;87;56;Piedmont;Barolo;Cascina Adelaide
+315;Italy;Extra Dry;86;15;Veneto;Prosecco di Valdobbiadene;Bellussi
+319;Italy;Millesimato Brut;86;20;Veneto;Veneto;Paladin
+320;Italy;Col di Manza Extra Dry Millesimato;86;22;Veneto;Prosecco di Valdobbiadene;Perlage
+321;Italy;Brut;86;16;Veneto;Prosecco di Valdobbiadene;Sant Eurosia
+322;Italy;Millesimato Dry;86;18;Veneto;Prosecco di Valdobbiadene;Sant Eurosia
+324;Italy;Matiú Brut;86;12;Veneto;Prosecco di Conegliano;L'Antica Quercia
+326;Italy;Extra Dry;86;15;Veneto;Prosecco di Valdobbiadene;Marsuret
+332;Italy;Palazzo Rosso Brut;86;19;Veneto;Prosecco di Conegliano;Sommariva
+333;Italy;Col del Sas Extra Dry;86;18;Veneto;Prosecco di Valdobbiadene;Spagnol
+335;Italy;Arió Extra Dry;86;15;Veneto;Prosecco di Conegliano;L'Antica Quercia
+350;Italy;Vignolo Riserva;97;150;Piedmont;Barolo;Cavallotto
+361;Italy;Simposio;95;60;Piedmont;Barolo;Bel Colle
+366;Italy;Vorberg;88;21;Northeastern Italy;Alto Adige;Cantina Terlano
+371;Italy;Castel Ringberg;88;23;Northeastern Italy;Alto Adige;Elena Walch
+372;Italy;Classico;88;10;Veneto;Soave;Gini
+373;Italy;I Fiori del Borgo;88;15;Northeastern Italy;Collio;Borgo Conventi
+375;Italy;Vino in Musica;88;40;Tuscany;Toscana;Valiano
+376;Italy;Zuc de Volpe;88;18;Northeastern Italy;Colli Orientali del Friuli;Volpe Pasini
+379;Italy;Bianco dei Sorni;88;15;Northeastern Italy;Trentino;La Vis
+381;Italy;Vigne Alte;88;11;Veneto;Bianco di Custoza;Fratelli Zeni
+383;Italy;Vigneto Santa Cecilia;88;9;Veneto;Valdadige;Tommasi
+384;Italy;Sanct Valentin;88;30;Northeastern Italy;Alto Adige;San Michele Eppan
+389;Italy;Terlano Classico;88;15;Northeastern Italy;Alto Adige;Cantina Terlano
+399;Italy;Extra Dry;85;24;Veneto;Prosecco di Valdobbiadene;Astoria
+400;Italy;Brut;85;13;Italy Other;Italy;Cantine Maschio
+401;Italy;Millesimato Extra Dry;85;19;Veneto;Prosecco di Valdobbiadene;Val d'Oca
+405;Italy;Extra Dry;85;19;Veneto;Prosecco del Veneto;Viticoltori Ponte
+408;Italy;Millesimato Extra Dry;85;15;Veneto;Prosecco di Conegliano e Valdobbiadene;Le Vigne di Alice
+412;Italy;Canah Brut;85;20;Veneto;Prosecco di Valdobbiadene;Perlage
+414;Italy;Stefany Extra Dry;85;16;Veneto;Prosecco del Veneto;Pizzolato
+416;Italy;Extra Dry;85;14;Veneto;Prosecco del Veneto;Ca'Tullio
+434;Italy;Rocche dell'Annunziata;89;89;Piedmont;Barolo;Revello Fratelli
+436;Italy;Gold Label;89;15;Piedmont;Gavi;Tenuta La Marchesa
+445;Italy;Vigorosa Rosato;88;28;Sicily & Sardinia;Etna;Fattorie Romeo del Castello
+449;Italy;Pas Dosé Aligi Sassu;92;39;Lombardy;Franciacorta;Majolini
+451;Italy;Messaggero;92;35;Tuscany;Vino Nobile di Montepulciano;Montemercurio
+458;Italy;Gran Cuvée Pas Operé;92;50;Lombardy;Franciacorta;Bellavista
+465;Italy;Morar;92;69;Veneto;Amarone della Valpolicella;Valentina Cubi
+479;Italy;Riserva;87;15;Sicily & Sardinia;Cannonau di Sardegna;Santa Maria La Palma
+481;Italy;Costera;87;18;Sicily & Sardinia;Isola dei Nuraghi;Argiolas
+487;Italy;Tovè;87;15;Northeastern Italy;Colli Orientali del Friuli;Marco Cecchini
+542;Italy;Praepositus Passito;93;30;Northeastern Italy;Alto Adige Valle Isarco;Abbazia di Novacella
+549;Italy;Resa 56;93;90;Piedmont;Barolo;Brandini
+600;Italy;Le Marne;87;19;Piedmont;Gavi;Michele Chiarlo
+617;Italy;Millesimato Extra Dry;87;25;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bacio della Luna
+619;Italy;Brut;87;16;Piedmont;Piedmont;Borgo Maragliano
+620;Italy;Dry;87;20;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bortolotti
+626;Italy;Memorio Creari;87;23;Veneto;Gambellara Classico;Domenico Cavazza
+627;Italy;Sivoy;87;19;Piedmont;Monferrato;Cascina La Ghersa
+662;Italy;Ornato;90;65;Piedmont;Barolo;Palladino
+664;Italy;Siri d'Jermu;90;35;Piedmont;Dogliani Superiore;Pecchenino
+665;Italy;Costa Bruna;90;25;Piedmont;Barbera d'Alba;Poderi Colla
+677;Italy;Smeriglio Riserva;90;50;Tuscany;Cortona;Baracchi Riccardo
+678;Italy;Smeriglio;90;35;Tuscany;Cortona;Baracchi Riccardo
+682;Italy;Metodo Classico;90;45;Piedmont;Piemonte;Castello di Neive
+683;Italy;Cignale;90;70;Tuscany;Colli della Toscana Centrale;Castello di Querceto
+686;Italy;Acclivi;90;53;Piedmont;Barolo;Comm. G. B. Burlotto
+692;Italy;Capatosta;91;35;Tuscany;Morellino di Scansano;Poggio Argentiera
+695;Italy;Riserva Ducale Oro Gran Selezione;91;43;Tuscany;Chianti Classico;Ruffino
+725;Italy;Meriame;85;80;Piedmont;Barolo;Paolo Manzone
+739;Italy;Riserva;85;102;Piedmont;Barolo;Marchesi di Barolo
+744;Italy;Campo Quadro Riserva;85;48;Piedmont;Barbaresco;Punset
+769;Italy;Synthesi;87;30;Southern Italy;Aglianico del Vulture;Paternoster
+777;Italy;Cràtis;92;18;Northeastern Italy;Colli Orientali del Friuli;Scubla
+781;Italy;Giulio Ferrari Riserva del Fondatore;92;85;Northeastern Italy;Trento;Ferrari
+808;Italy;Le Vele;90;32;Central Italy;Verdicchio dei Castelli di Jesi Classico;Moncaro
+826;Italy;Ciampoleto;86;28;Tuscany;Rosso di Montalcino;Tenuta San Giorgio
+844;Italy;Bianco;90;24;Sicily & Sardinia;Etna;Cottanera
+856;Italy;Taburno;90;25;Southern Italy;Sannio;Fattoria La Rivolta
+861;Italy;Rosso;90;30;Sicily & Sardinia;Etna;Graci
+894;Italy;Castello di Montepò;90;29;Tuscany;Morellino di Scansano;Jacopo Biondi-Santi
+895;Italy;Giuseppe Olivi Memento;90;45;Tuscany;Toscana;Le Buche
+899;Italy;Fonterutoli;90;28;Tuscany;Chianti Classico;Mazzei
+904;Italy;Pajè;87;50;Piedmont;Barbaresco;Boffa
+917;Italy;Bussia;87;50;Piedmont;Barolo;Deltetto
+918;Italy;Ginestra;87;50;Piedmont;Barolo;Diego Conterno
+955;Italy;Nirvasco;87;50;Piedmont;Barolo;Bersano
+956;Italy;Anni Venti Metodo Classico;87;30;Southern Italy;Greco di Tufo;Cantine di Marzo
+964;Italy;Argillaia;85;17;Lombardy;Lugana;Fabiano
+965;Italy;Vecchie Vigne;85;48;Southern Italy;Primitivo di Manduria;Vinosia
+975;Italy;P;85;12;Sicily & Sardinia;Sicilia;Feudo Montoni
+980;Italy;Capitel della Crosara;85;41;Veneto;Amarone della Valpolicella Classico;Montresor
+982;Italy;Col di Luna;85;16;Veneto;Piave;Bellenda
+995;Italy;Edèlmio;88;26;Sicily & Sardinia;Sicilia;Benanti
+996;Italy;Terre di Giumara;88;14;Sicily & Sardinia;Sicilia;Caruso & Minini
+1001;Italy;Il Monovitigno;88;41;Sicily & Sardinia;Etna;Benanti
+1013;Italy;Cembali;88;45;Sicily & Sardinia;Sicilia;Baglio di Pianetto
+1016;Italy;Gradiva Collectio;88;22;Sicily & Sardinia;Sicilia;Casa di Grazia
+1017;Italy;Zahara;88;22;Sicily & Sardinia;Sicilia;Casa di Grazia
+1022;Italy;Cubia Tenuta Ficuzza;88;27;Sicily & Sardinia;Sicilia;Cusumano
+1035;Italy;Aquilae;88;12;Sicily & Sardinia;Terre Siciliane;Viticultori Associati Canicatti
+1036;Italy;Salisire Bianco;88;28;Sicily & Sardinia;Etna;Vivera
+1044;Italy;Rive Alte;85;17;Northeastern Italy;Isonzo del Friuli;Tenuta Luisa
+1046;Italy;Bianco degli Arzillari;85;28;Northeastern Italy;Colli Orientali del Friuli;I Clivi
+1071;Italy;Castelletto;94;57;Piedmont;Barolo;Mauro Veglio
+1077;Italy;Ascheri;94;180;Piedmont;Barolo;Ascheri
+1109;Italy;Sant'Ercolano;90;70;Tuscany;Vino Nobile di Montepulciano;Carpineto
+1138;Italy;Frà;84;10;Southern Italy;Basilicata;Grifalco
+1148;Italy;Caporosso;83;14;Sicily & Sardinia;Sicilia;Cantine Grasso
+1161;Italy;Desiderio Jeio Brut;86;17;Veneto;Prosecco del Veneto;Bisol
+1162;Italy;Extra Dry;86;15;Veneto;Prosecco di Conegliano;Carmina
+1163;Italy;Cuvée Oro Dry;86;20;Veneto;Prosecco di Conegliano;Carpenè Malvolti
+1164;Italy;Servo Suo Dry Vendemmia Tardiva;86;19;Veneto;Prosecco di Valdobbiadene;Col Saliz
+1167;Italy;Special Cuvée Brut;86;13;Veneto;Prosecco del Veneto;Zonin
+1169;Italy;Millesimato Extra Brut;86;13;Veneto;Prosecco del Veneto;Toffoli
+1176;Italy;Col del Sas Extra Dry;86;18;Veneto;Prosecco di Valdobbiadene;Spagnol
+1181;Italy;Montersino;88;50;Piedmont;Barbaresco;Bel Colle
+1183;Italy;Margheria;88;49;Piedmont;Barolo;Boasso
+1184;Italy;I Tre Pais;88;50;Piedmont;Barolo;Broccardo
+1197;Italy;Serragrilli;87;90;Piedmont;Barbaresco;Battaglio
+1205;Italy;Rocche di Castelletto;87;75;Piedmont;Barolo;Cascina Chicco
+1207;Italy;Bussia Dardi Le Rose;93;80;Piedmont;Barolo;Poderi Colla
+1218;Italy;Villa Bucci Riserva;93;57;Central Italy;Verdicchio dei Castelli di Jesi Classico;Bucci
+1237;Italy;Geografico;88;16;Tuscany;Chianti Classico;Agricoltori del Chianti Geografico
+1239;Italy;Riserva;88;35;Tuscany;Chianti Classico;Castellare di Castellina
+1258;Italy;Vigna La Casa;88;90;Tuscany;Brunello di Montalcino;Caparzo
+1260;Italy;Santagostino Baglio Sorìa;85;22;Sicily & Sardinia;Sicilia;Firriato
+1274;Italy;Haermosa;84;28;Sicily & Sardinia;Sicilia;Masseria del Feudo Grottarossa
+1283;Italy;Terrale Oro;84;10;Sicily & Sardinia;Sicilia;Calatrasi
+1288;Italy;St. Magdalener Classico;89;19;Northeastern Italy;Alto Adige;Griesbauerhof
+1290;Italy;Sanct Valentin;89;48;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+1297;Italy;Tradizionale Blanc de Morgex et de La Salle;89;20;Northwestern Italy;Valle d'Aosta;Cave du Vin Blanc de Morgex et de la Salle
+1299;Italy;Cornell Villa Nigra;89;49;Northeastern Italy;Alto Adige;Colterenzio
+1312;Italy;I Vigneti;89;15;Northeastern Italy;Alto Adige;Tenuta Peter Sölva & Söhne
+1314;Italy;Linticlarus Riserva;89;40;Northeastern Italy;Alto Adige;Tiefenbrunner
+1344;Italy;della Timpa;90;18;Sicily & Sardinia;Sicilia;Feudo Montoni
+1347;Italy;Le Pitre;86;29;Southern Italy;Salento;Villa Mottura
+1350;Italy;Preta;86;19;Southern Italy;Sannio;Capolino Perlingieri
+1363;Italy;Sangue Blu;86;18;Southern Italy;Puglia;Torre Quarto
+1372;Italy;Vigneto Vigne dai Vieris;86;10;Northeastern Italy;Venezia Giulia;Di Lenardo
+1402;Italy;Puiten;88;23;Northeastern Italy;Alto Adige;Colterenzio
+1403;Italy;Tannenberg;88;30;Northeastern Italy;Alto Adige Terlano;Manincor
+1452;Italy;Fornace;94;125;Tuscany;Brunello di Montalcino;Le Ragnaie
+1454;Italy;Campolongo di Torbe;94;154;Veneto;Amarone della Valpolicella Classico;Masi
+1460;Italy;Morei;93;48;Northeastern Italy;Vigneti delle Dolomiti;Foradori
+1471;Italy;Riserva;93;85;Tuscany;Brunello di Montalcino;Villa Poggio Salvi
+1474;Italy;Riserva;86;18;Central Italy;Montefalco Rosso;Terre de Trinci
+1475;Italy;Pinot Grigio;86;15;Northeastern Italy;Colli Orientali del Friuli;Mosolo Gleni
+1491;Italy;Pinot Grigio;85;15;Central Italy;Umbria;Lungarotti
+1500;Italy;Cometa;92;43;Sicily & Sardinia;Sicilia;Planeta
+1522;Italy;Don Antonio;92;42;Sicily & Sardinia;Sicilia;Morgante
+1526;Italy;Hierà;86;21;Sicily & Sardinia;Terre Siciliane;Hauner
+1544;Italy;The Wanted Zin Blush;85;14;Southern Italy;Puglia;Orion Wines
+1550;Italy;Heaven Scent;85;20;Veneto;Bardolino Chiaretto;Villa Cordevigo
+1553;Italy;Rosé di Lulu;85;18;Southern Italy;Murgia;Botromagno
+1561;Italy;Guado al Tasso;98;102;Tuscany;Bolgheri Superiore;Marchesi Antinori
+1563;Italy;Sassicaia;97;220;Tuscany;Bolgheri Sassicaia;Tenuta San Guido
+1564;Italy;Ornellaia;97;215;Tuscany;Bolgheri Superiore;Tenuta dell'Ornellaia
+1570;Italy;Argentiera;96;75;Tuscany;Bolgheri Superiore;Tenuta Argentiera
+1588;Italy;Scurati;88;16;Sicily & Sardinia;Terre Siciliane;Ceuso
+1603;Italy;Memorie;88;25;Sicily & Sardinia;Sicilia;Feudo Antico
+1609;Italy;Cutaja Riserva;87;14;Sicily & Sardinia;Delia Nivolelli;Caruso & Minini
+1668;Italy;Capostrano;85;19;Central Italy;Montepulciano d'Abruzzo;Cantina Valle Tritana
+1696;Italy;Quercegobbe;86;50;Tuscany;Toscana;Petra
+1698;Italy;Solista;86;85;Tuscany;Toscana;Terralsole
+1699;Italy;Poggio al Tufo Rompicollo;86;16;Tuscany;Maremma;Tommasi
+1705;Italy;Patrimonio;86;15;Tuscany;Toscana;Antonino Tringali-Casanuova
+1709;Italy;Wine Obsession I Miti;86;65;Tuscany;Toscana;Villa Vignamaggio
+1713;Italy;Birba;85;29;Tuscany;Toscana;La Gerla
+1736;Italy;Ugolforte;92;50;Tuscany;Brunello di Montalcino;Tenuta San Giorgio
+1738;Italy;Riserva;92;80;Tuscany;Brunello di Montalcino;Lisini
+1740;Italy;Le Serre Nuove;92;75;Tuscany;Bolgheri;Ornellaia
+1743;Italy;Poggiotondo;92;45;Tuscany;Brunello di Montalcino;Centolani
+1798;Italy;Riserva;91;50;Piedmont;Barolo;Villadoria
+1859;Italy;Giambattista Valli;83;30;Sicily & Sardinia;Cerasuolo di Vittoria;Feudi del Pisciotto
+1864;Italy;Tinata;94;130;Tuscany;Toscana;Monteverro
+1865;Italy;Castello di Fonterutoli Siepi;93;120;Tuscany;Toscana;Mazzei
+1869;Italy;Poggio ai Merli;93;75;Tuscany;Toscana;Castellare di Castellina
+1875;Italy;Marchesale;93;80;Tuscany;Toscana;Terre del Marchesato
+1885;Italy;Monteti;93;60;Tuscany;Toscana;Tenuta Monteti
+1904;Italy;Alessandra;89;24;Southern Italy;Fiano di Avellino;Di Meo
+1907;Italy;Gravisano Passito;89;30;Southern Italy;Murgia;Botromagno
+1925;Italy;Cannubi Boschis;87;50;Piedmont;Barolo;Virna Borgogno
+1928;Italy;Tre Rovere;87;25;Piedmont;Barbera d'Asti Superiore;Pico Maccario
+1932;Italy;Vigna San Giacomo;87;80;Piedmont;Barolo;Stroppiana
+1960;Italy;Chimera;88;30;Sicily & Sardinia;Vermentino di Sardegna;Tenute Soletta
+1961;Italy;Kyanos;88;32;Sicily & Sardinia;Isola dei Nuraghi;Tenute Soletta
+1967;Italy;Regale;88;20;Southern Italy;Primitivo di Manduria;Torre Quarto
+1972;Italy;Barbazzale;88;14;Sicily & Sardinia;Etna;Cottanera
+1975;Italy;Sud;88;15;Southern Italy;Primitivo di Manduria;Feudi di San Marzano
+1977;Italy;Elo Veni;88;15;Southern Italy;Salento;Leone de Castris
+1983;Italy;Schietto;88;19;Sicily & Sardinia;Sicilia;Principi di Spadafora
+2000;Italy;Baglio del Sole;84;12;Sicily & Sardinia;Sicilia;Feudi del Pisciotto
+2029;Italy;Montunal;87;15;Lombardy;Lugana;Montonale
+2030;Italy;Memento;87;39;Tuscany;Toscana;Olivi
+2036;Italy;Castello;87;15;Veneto;Soave Classico;Cantina del Castello
+2037;Italy;Vom Stein;87;17;Northeastern Italy;Alto Adige;Castelfeder
+2043;Italy;Gramolere;92;82;Piedmont;Barolo;Fratelli Alessandria
+2044;Italy;Bricco delle Viole;92;75;Piedmont;Barolo;G D Vajra
+2045;Italy;Luigi Baudana Cerretta;92;85;Piedmont;Barolo;G D Vajra
+2054;Italy;Costa di Bussia;92;50;Piedmont;Barolo;Tenuta Arnulfo
+2060;Italy;Cannubi;92;76;Piedmont;Barolo;Damilano
+2074;Italy;Lamorèmio;90;45;Sicily & Sardinia;Sicilia;Benanti
+2075;Italy;Il Monovitigno;90;41;Sicily & Sardinia;Sicilia;Benanti
+2096;Italy;Sot Lis Rivis;87;29;Northeastern Italy;Isonzo del Friuli;Ronco del Gelso
+2098;Italy;Vineis;87;21;Northeastern Italy;Colli Orientali del Friuli;Rocca Bernarda
+2103;Italy;Amplius;87;22;Northeastern Italy;Colli Orientali del Friuli;Comelli
+2106;Italy;Villa Canlungo;87;19;Northeastern Italy;Collio;Eugenio Collavini
+2108;Italy;Chardonnay;87;12;Northeastern Italy;Delle Venezie;Folonari
+2129;Italy;Monfrini;88;15;Piedmont;Roero;Ponchione Maurizio
+2133;Italy;Costalunga;88;10;Piedmont;Barbera d'Asti;Bersano
+2147;Italy;Podere;84;10;Central Italy;Montepulciano d'Abruzzo;Umani Ronchi
+2148;Italy;Vasari;84;11;Central Italy;Montepulciano d'Abruzzo;Barba
+2171;Italy;Cannubi;90;107;Piedmont;Barolo;Marchesi di Barolo
+2173;Italy;Rocche di Castiglione;90;58;Piedmont;Barolo;Monchiero
+2213;Italy;Le Colombare;88;53;Veneto;Recioto di Soave;Pieropan
+2224;Italy;Riserva;94;92;Tuscany;Brunello di Montalcino;Fornacina
+2225;Italy;Riserva;94;85;Tuscany;Brunello di Montalcino;San Polino
+2232;Italy;Riserva;94;120;Tuscany;Brunello di Montalcino;Podere Brizio
+2233;Italy;Madre;94;73;Tuscany;Toscana;Poggio Antico
+2234;Italy;Riserva;94;65;Tuscany;Brunello di Montalcino;Mocali
+2239;Italy;Vigna Spuntali Val di Suga;94;106;Tuscany;Brunello di Montalcino;Tenimenti Angelini
+2243;Italy;Riserva;94;75;Tuscany;Brunello di Montalcino;Collosorbo
+2249;Italy;Il Mio Brunello Riserva;94;150;Tuscany;Brunello di Montalcino;Il Poggiolo E. Cosimi
+2257;Italy;Pro Nobis;87;26;Piedmont;Ruché di Castagnole Monferrato;Cantine Sant'Agata
+2262;Italy;Canua;87;40;Lombardy;Valtellina Superiore;Salis 1637
+2295;Italy;Pian delle Vigne;90;66;Tuscany;Brunello di Montalcino;Marchesi Antinori
+2296;Italy;Fonterutoli;90;28;Tuscany;Chianti Classico;Mazzei
+2313;Italy;San Leonino Riserva;90;37;Tuscany;Chianti Classico;Tenimenti Angelini
+2317;Italy;Vigna Misciano Riserva;90;34;Tuscany;Chianti Classico;Borgo Scopeto
+2362;Italy;Grotta del Ninfeo;88;42;Veneto;Amarone della Valpolicella;Domenico Fraccaroli
+2373;Italy;Le Morete;88;20;Veneto;Valpolicella Classico Superiore Ripasso;Manara
+2374;Italy;Blanc des Rosis;88;30;Northeastern Italy;Collio;Mario Schiopetto
+2401;Italy;Campo Reale;87;14;Sicily & Sardinia;Sicilia;Tenuta Rapitalà
+2409;Italy;Sallier de la Tour;85;13;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+2412;Italy;Dolia;85;14;Sicily & Sardinia;Monica di Sardegna;Cantine di Dolianova
+2434;Italy;Ametys;85;17;Southern Italy;Puglia;Miali
+2444;Italy;Rosé Metodo Classico;90;30;Central Italy;Lambrusco di Modena;Cantina della Volta
+2448;Italy;Amarasco;90;20;Central Italy;Lazio;Principe Pallavicini
+2450;Italy;Greppone Mazzi;90;80;Tuscany;Brunello di Montalcino;Ruffino
+2468;Italy;Riserva;90;75;Tuscany;Brunello di Montalcino;Collosorbo
+2496;Italy;Monte Stelle;88;16;Veneto;Soave Classico;La Cappuccina
+2497;Italy;Tal Lùc;88;43;Northeastern Italy;Venezia Giulia;Lis Neris
+2509;Italy;Rocche dell'Annunziata;95;65;Piedmont;Barolo;Aurelio Settimo
+2510;Italy;Villero;95;60;Piedmont;Barolo;Giacomo Fenocchio
+2511;Italy;Cerretta;95;96;Piedmont;Barolo;Giovanni Rosso
+2512;Italy;Boito Riserva;95;59;Piedmont;Barbaresco;Rizzi
+2514;Italy;Bergera Pezzole;94;60;Piedmont;Barolo;Le Strette
+2516;Italy;Rocche di Castiglione;94;42;Piedmont;Barolo;Roccheviberti
+2518;Italy;Tre Ciabot;94;48;Piedmont;Barolo;Cascina Ballarin
+2519;Italy;Cannubi;94;70;Piedmont;Barolo;Comm. G. B. Burlotto
+2520;Italy;Bricco Gattera;94;80;Piedmont;Barolo;Cordero di Montezemolo
+2523;Italy;Carobric;94;80;Piedmont;Barolo;Paolo Scavino
+2525;Italy;del Comune di Serralunga d'Alba;94;75;Piedmont;Barolo;Rivetto
+2526;Italy;Rieder;89;18;Northeastern Italy;Alto Adige;Castelfeder
+2537;Italy;Turmhof;89;20;Northeastern Italy;Alto Adige;Tiefenbrunner
+2540;Italy;Cacinello;89;28;Central Italy;Marche;Le Senate
+2570;Italy;Assoluto;89;45;Sicily & Sardinia;Isola dei Nuraghi;Pala
+2573;Italy;Teodosio;89;20;Southern Italy;Aglianico del Vulture;Basilisco
+2591;Italy;Bussia;90;92;Piedmont;Barolo;Barale Fratelli
+2592;Italy;Castellero;90;82;Piedmont;Barolo;Barale Fratelli
+2619;Italy;Gironia Biferno Rosato;83;18;Southern Italy;Molise;Borgo di Colloredo
+2632;Italy;Desiderio;90;57;Tuscany;Cortona;Avignonesi
+2643;Italy;Olivi Cantine;89;49;Tuscany;Toscana;Le Buche
+2666;Italy;Semonte Alto;90;26;Veneto;Valpolicella Classico Superiore Ripasso;Venturini Massimino
+2684;Italy;Sergio Zenato Riserva;90;125;Veneto;Amarone della Valpolicella Classico;Zenato
+2715;Italy;Teraje;87;10;Northeastern Italy;Friuli Grave;Pradio
+2716;Italy;Colbaraca Classico;87;11;Veneto;Soave;Masi
+2717;Italy;Vigneto Ai Palazzi;87;15;Veneto;Piave;Masottina
+2725;Italy;Urra di Mare;86;11;Sicily & Sardinia;Sicilia;MandraRossa
+2726;Italy;Neroametà;86;30;Southern Italy;Campania;Mastroberardino
+2730;Italy;Campore;86;28;Southern Italy;Fiano di Avellino;Terredora
+2746;Italy;Oltre;86;30;Southern Italy;Greco di Tufo;Agricola Bellaria
+2809;Italy;Quercetonda;87;50;Tuscany;Vino Nobile di Montepulciano;Le Casalte
+2820;Italy;Al Canapo;86;15;Tuscany;Chianti Colli Senesi;Bindi Sergardi
+2833;Italy;Pratale;86;13;Tuscany;Chianti Classico;Coli
+2835;Italy;Insoglio del Cinghiale;88;30;Tuscany;Toscana;Campo di Sasso
+2840;Italy;Le Cicale;88;30;Tuscany;Toscana;Fattoria Sardi
+2846;Italy;Vignarè;88;75;Tuscany;Toscana;Guicciardini Strozzi
+2849;Italy;Sister Moon;88;55;Tuscany;Toscana;Il Palagio
+2855;Italy;Saporaia;88;45;Tuscany;Brunello di Montalcino;Baccinetti
+2859;Italy;I Renai;88;45;Tuscany;Toscana;Sangervasio
+2862;Italy;Valdisanti;88;40;Tuscany;Toscana;Tolaini
+2870;Italy;Riserva Castel Ringberg;91;37;Northeastern Italy;Alto Adige;Elena Walch
+2872;Italy;Contrada Salvarenza Vecchie Vigne;91;25;Veneto;Soave Classico;Gini
+2877;Italy;Brut Satèn;91;34;Lombardy;Franciacorta;Contadi Castaldi
+2903;Italy;Extra Brut;86;47;Lombardy;Franciacorta;Ricci Curbastro
+2908;Italy;Brut Satèn;86;41;Lombardy;Franciacorta;Il Mosnel
+2914;Italy;Brut;86;30;Northeastern Italy;Trento;Altemasi
+2919;Italy;Podere Cariano;86;35;Veneto;Amarone della Valpolicella Classico;Le Bertarole
+2963;Italy;Sinestesìa;86;29;Sicily & Sardinia;Sicilia;Abbazia Santa Anastasia
+2966;Italy;Baccante;85;42;Sicily & Sardinia;Sicilia;Abbazia Santa Anastasia
+2987;Italy;Grosso Metodo Classico;91;30;Central Italy;Lambrusco di Modena;Paltrinieri
+2998;Italy;Secolo Novo Giovanni Biatta Metodo Classico;91;66;Lombardy;Franciacorta;Le Marchesine
+3001;Italy;Rosé Brut Metodo Classico;91;43;Italy Other;Vino Spumante;Dubl
+3011;Italy;Riserva;92;40;Tuscany;Chianti Classico;Capannelle
+3015;Italy;Il Querciolaia;92;60;Tuscany;Colli della Toscana Centrale;Castello di Querceto
+3034;Italy;Rudhir;88;19;Central Italy;Montepulciano d'Abruzzo;Jasci & Marchesani
+3037;Italy;Spelt Riserva;88;20;Central Italy;Montepulciano d'Abruzzo;La Valentina
+3050;Italy;Quadrio;88;22;Lombardy;Valtellina Superiore;Nino Negri
+3065;Italy;Serra della Contessa;94;49;Sicily & Sardinia;Sicilia;Benanti
+3085;Italy;Le Quare;88;16;Veneto;Valpolicella Classico Superiore Ripasso;Gamba
+3088;Italy;Il Vegro;88;22;Veneto;Valpolicella Classico Superiore Ripasso;Brigaldara
+3090;Italy;Campo Leòn;88;55;Veneto;Amarone della Valpolicella;Latium di Morini
+3091;Italy;Capitel de' Roari;88;35;Veneto;Amarone della Valpolicella Classico;Luigi Righetti
+3095;Italy;Tenuta Lena di Mezzo;88;50;Veneto;Amarone della Valpolicella Classico;Monte del Frá
+3096;Italy;Giacomo Montresor;88;45;Veneto;Amarone della Valpolicella;Montresor
+3097;Italy;Riserva;88;44;Veneto;Amarone della Valpolicella;Musella
+3161;Italy;Col Fondo;86;18;Veneto;Prosecco;Ca' dei Zago
+3162;Italy;Cuvée Brut;86;16;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Carpenè Malvolti
+3167;Italy;Mini;86;5;Veneto;Prosecco;Anna Spinato
+3168;Italy;Miraval Millesimato Extra Dry;86;19;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bellenda
+3169;Italy;Millesimato Brut;86;15;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bianca Vigna
+3172;Italy;Extra Dry;86;16;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Carpenè Malvolti
+3201;Italy;Redigaffi;90;400;Tuscany;Toscana;Tua Rita
+3214;Italy;Sanct Valentin;88;38;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+3226;Italy;Trabocchetto;88;19;Central Italy;Colline Pescaresi;Talamonti
+3229;Italy;Thea Riserva;88;21;Central Italy;Sangiovese di Romagna Superiore;Tre Monti
+3239;Italy;Pruno Riserva;88;40;Central Italy;Sangiovese di Romagna Superiore;Drei Donà Tenuta La Palazza
+3243;Italy;Da Vinci Riserva;86;23;Tuscany;Chianti;Cantine Leonardo Da Vinci
+3248;Italy;Riserva;86;18;Tuscany;Chianti;Viticoltori Senesi Aretini
+3253;Italy;Ceppeto Riserva;86;31;Tuscany;Chianti Classico;Mannucci Droandi
+3267;Italy;O'Leandro Riserva;86;45;Tuscany;Chianti Classico;Cennatoio
+3272;Italy;Cubìa;87;18;Sicily & Sardinia;Sicilia;Cusumano
+3274;Italy;Lamùri;87;28;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+3282;Italy;Maiana Rosso;87;10;Southern Italy;Salice Salentino;Leone de Castris
+3287;Italy;Torre dei Venti;87;21;Sicily & Sardinia;Sicilia;Fazio
+3290;Italy;Le Fossette;87;18;Southern Italy;Puglia;Alberto Longo
+3303;Italy;Extra Dry;87;19;Veneto;Prosecco di Conegliano e Valdobbiadene;Conte Collalto
+3307;Italy;Vigneto Giardino Dry;87;22;Veneto;Prosecco di Valdobbiadene;Adami
+3309;Italy;Brut Millesimato Motus Vitae;87;37;Veneto;Prosecco di Valdobbiadene;Bortolomiol
+3310;Italy;Brut;87;16;Veneto;Prosecco di Valdobbiadene;Bortolotti
+3337;Italy;Curma;84;35;Sicily & Sardinia;Sicilia;Armosa
+3414;Italy;Drago;83;16;Northeastern Italy;Trentino;Lechthaler
+3447;Italy;Castelletto;88;70;Piedmont;Barolo;Tenuta Duecorti
+3448;Italy;Gratus Bio;88;31;Piedmont;Colline Novaresi;Podere ai Valloni
+3463;Italy;Colmello Rosso;88;27;Veneto;Veneto Orientale;Moletto
+3465;Italy;Brut Rosé Millesimato;88;28;Lombardy;Franciacorta;Fratelli Berlucchi
+3470;Italy;Cantina Tre Serre;88;29;Piedmont;Barbaresco;Vinchio-Vaglio Serra
+3488;Italy;Tenuta Lena di Mezzo;87;20;Veneto;Valpolicella Classico Superiore Ripasso;Monte del Frá
+3494;Italy;Paverno;87;25;Veneto;Amarone della Valpolicella Classico;Vaona
+3509;Italy;Riserva;88;22;Tuscany;Vernaccia di San Gimignano;Fattoria La Vialla
+3512;Italy;Principe Strozzi;88;18;Tuscany;Vernaccia di San Gimignano;Guicciardini Strozzi
+3523;Italy;Bron& Ruseval Riserva;88;27;Central Italy;Romagna;Celli
+3530;Italy;Costa Grimaldi;92;92;Piedmont;Barolo;Poderi Luigi Einaudi
+3539;Italy;Brunate Le Coste;92;120;Piedmont;Barolo;Giuseppe Rinaldi
+3540;Italy;Casot;92;30;Piedmont;Barbaresco;Nada Giuseppe
+3541;Italy;Cascinotta;92;50;Piedmont;Barbaresco;Negro Angelo e Figli
+3544;Italy;Bricco Sarmassa;92;70;Piedmont;Barolo;Brezza
+3548;Italy;Vigna Lazzairasco;92;44;Piedmont;Barolo;Guido Porro
+3570;Italy;Lamùri;89;20;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+3645;Italy;Campoleone;93;52;Central Italy;Umbria;Lamborghini
+3675;Italy;Cantina Tre Serre;84;11;Piedmont;Piedmont;Vinchio-Vaglio Serra
+3694;Italy;Dosaggio Zero;91;30;Veneto;Valdobbiadene Prosecco Superiore;Ca' dei Zago
+3695;Italy;Vintage Collection Brut;91;75;Lombardy;Franciacorta;Ca' del Bosco
+3700;Italy;Tremenel;91;65;Veneto;Amarone della Valpolicella;Villa Erbice
+3705;Italy;Pas Dosé Vintage;91;45;Lombardy;Franciacorta;Fratelli Berlucchi
+3713;Italy;Rubrato;88;19;Southern Italy;Irpinia;Feudi di San Gregorio
+3727;Italy;Campo ai Sassi;86;22;Tuscany;Rosso di Montalcino;Castelgiocondo
+3761;Italy;Alberta Ferretti;86;20;Sicily & Sardinia;Sicilia;Feudi del Pisciotto
+3776;Italy;Vigna Alta Il Lagarino di Dionisio;86;30;Southern Italy;Basilicata;Taverna
+3786;Italy;Pretiosa;86;20;Sicily & Sardinia;Terre Siciliane;Cantine Gulino
+3796;Italy;Riserva;88;20;Tuscany;Morellino di Scansano;Il Grillesino
+3797;Italy;Sabazio;88;15;Tuscany;Rosso di Montepulciano;La Braccesca
+3804;Italy;Paolus;88;20;Tuscany;Rosso di Montalcino;Molino di Sant'Antimo
+3817;Italy;Damo;93;65;Tuscany;Vino Nobile di Montepulciano;Montemercurio
+3847;Italy;Calidonio;92;42;Southern Italy;Taburno;Ocone
+3875;Italy;Castello di Semivicoli;91;50;Central Italy;Trebbiano d'Abruzzo;Masciarelli
+3902;Italy;Santa Lucia;87;16;Northeastern Italy;Collio;Primosic
+3907;Italy;Plotzner;87;20;Northeastern Italy;Alto Adige;St. Pauls
+3909;Italy;Col Livius;87;22;Northeastern Italy;Friuli Colli Orientali;La Tunella
+3910;Italy;Ritratti;87;19;Northeastern Italy;Trentino;La Vis
+3911;Italy;Vigna Maso Tratta;87;19;Northeastern Italy;Trentino;La Vis
+3914;Italy;Eichorn;87;30;Northeastern Italy;Alto Adige Terlano;Manincor
+3977;Italy;500ml;90;37;Veneto;Recioto della Valpolicella Classico;Nicolis
+3978;Italy;Cristina Ascheri;85;20;Piedmont;Gavi di Gavi;Giacomo Ascheri
+3986;Italy;Villa Pattono;85;26;Piedmont;Monferrato;Renato Ratti
+3987;Italy;Le Monache;85;13;Piedmont;Monferrato;Michele Chiarlo
+3996;Italy;Tenuta Del Fant;85;19;Piedmont;Moscato d'Asti;Il Falchetto
+4006;Italy;Selvecorte;88;23;Southern Italy;Fiano di Avellino;Contrada Michele
+4018;Italy;Anthologia;88;30;Southern Italy;Falerno del Massico;Masseria Felicia
+4039;Italy;Runcaris;88;13;Veneto;Soave;Fattori
+4040;Italy;Vin Soave;88;15;Veneto;Soave Classico;Inama
+4053;Italy;Terre di Cariano Riserva;88;60;Veneto;Amarone della Valpolicella Classico;Cecilia Beretta
+4067;Italy;Tenuta Belguardo;90;50;Tuscany;Maremma Toscana;Mazzei
+4068;Italy;La Court;90;50;Piedmont;Barbera d'Asti Superiore;Michele Chiarlo
+4070;Italy;Rocche di Castiglione Falletto;90;40;Piedmont;Barolo;Monchiero
+4089;Italy;Villa Marchesi;86;11;Northeastern Italy;Friuli Grave;Cantina di Bertiolo
+4125;Italy;Extra Brut Metodo Classico;90;49;Piedmont;Alta Langa;Fontanafredda
+4126;Italy;Freccianera Brut Vintage Metodo Classico;90;40;Lombardy;Franciacorta;Fratelli Berlucchi
+4144;Italy;Fatica Contadina;92;35;Southern Italy;Taurasi;Terredora
+4154;Italy;Vigna Barbagalli Pre-Phylloxera Rosso;92;100;Sicily & Sardinia;Etna;Pietradolce
+4163;Italy;Il Sigillo;92;66;Southern Italy;Aglianico del Vulture;Cantine del Notaio
+4190;Italy;Riserva;87;79;Veneto;Amarone della Valpolicella;San Cassiano
+4217;Italy;Riserva;87;60;Tuscany;Brunello di Montalcino;Verbena
+4222;Italy;Olmèra;87;50;Veneto;Veneto;De Stefani
+4258;Italy;Bric de Maschi;85;19;Piedmont;Barbera d'Alba Superiore;Le Vigne di Ca' Nova
+4273;Italy;Ruvei;85;19;Piedmont;Barbera d'Alba;Marchesi di Barolo
+4294;Italy;Calvarino;89;30;Veneto;Soave Classico;Pieropan
+4300;Italy;Rosso di Verzella;89;25;Sicily & Sardinia;Etna;Benanti
+4310;Italy;Villa Rizzardi;89;90;Veneto;Amarone della Valpolicella Classico;Guerrieri Rizzardi
+4322;Italy;Cúmaro Riserva;89;35;Central Italy;Conero;Umani Ronchi
+4330;Italy;Coda della Foce;88;42;Sicily & Sardinia;Menfi;Cantine Barbera
+4331;Italy;Terre di Giumara Sachia;88;19;Sicily & Sardinia;Sicilia;Caruso & Minini
+4355;Italy;Baradiero;90;25;Tuscany;Vino Nobile di Montepulciano;Cantina del Giusto
+4365;Italy;Rosso Riserva degli Orzoni;91;47;Northeastern Italy;Collio;Russiz Superiore
+4370;Italy;Quarz;91;55;Northeastern Italy;Alto Adige;Cantina Terlano
+4416;Italy;Rossofuoco;89;19;Piedmont;Barbera d'Asti;Vite Colte
+4428;Italy;Gallina;89;45;Piedmont;Barbaresco;Cantina del Pino
+4432;Italy;Bric' Micca;89;46;Piedmont;Barbaresco;Dante Rivetti
+4441;Italy;Neblina;89;15;Central Italy;Romagna;Giovanna Madonia
+4480;Italy;Il Lussurioso Riserva;91;60;Veneto;Amarone della Valpolicella Classico;Buglioni
+4503;Italy;Contrada R;97;60;Sicily & Sardinia;Terre Siciliane;Passopisciaro
+4513;Italy;Brunate;96;146;Piedmont;Barolo;Giuseppe Rinaldi
+4515;Italy;Parafada;95;96;Piedmont;Barolo;Massolino
+4522;Italy;Francia;95;225;Piedmont;Barolo;Giacomo Conterno
+4523;Italy;Contrada Monte San Nicolò;95;30;Sicily & Sardinia;Etna;Biondi
+4524;Italy;Outis Rosso;95;40;Sicily & Sardinia;Etna;Biondi
+4527;Italy;Pithos Rosso;95;30;Sicily & Sardinia;Vittoria;COS
+4539;Italy;Ferrando;82;21;Central Italy;Lambrusco dell'Emilia;Quarticello
+4543;Italy;Assiolo;82;21;Central Italy;Sangiovese di Romagna Superiore;Costa Archi
+4556;Italy;Rondineto;80;12;Central Italy;Colli Aprutini;Fattoria Giuseppe Savini
+4567;Italy;Fonte Venna;85;15;Central Italy;Montepulciano d'Abruzzo;Il Feuduccio Di S. Maria D'Orni
+4568;Italy;Pieluni Riserva;85;60;Central Italy;Montepulciano d'Abruzzo Colline Teramane;Illuminati Dino
+4573;Italy;I Vasari Old Vines;85;25;Central Italy;Montepulciano d'Abruzzo;Barba
+4594;Italy;Vigneti di Montegradella;87;14;Veneto;Valpolicella Classico Superiore;Sartori
+4597;Italy;Corte Giara;87;20;Veneto;Valpolicella Ripasso;Allegrini
+4607;Italy;Podere Bertarole Ripassato;87;25;Veneto;Valpolicella Classico Superiore;Corteforte
+4608;Italy;Cicilio;87;20;Veneto;Valpolicella Classico Superiore Ripasso;Degani
+4617;Italy;Capitel de' Roari;87;35;Veneto;Amarone della Valpolicella Classico;Luigi Righetti
+4618;Italy;Cannubi;94;66;Piedmont;Barolo;Francesco Rinaldi
+4625;Italy;Ovello;94;50;Piedmont;Barbaresco;Boffa
+4626;Italy;Castellero;94;50;Piedmont;Barolo;Brezza
+4627;Italy;La Foia;94;65;Piedmont;Barolo;Curto Marco
+4630;Italy;Gattera;94;57;Piedmont;Barolo;Mauro Veglio
+4631;Italy;Paiagallo;94;100;Piedmont;Barolo;Mirafiore
+4705;Italy;Bricco Paradiso;87;30;Piedmont;Barbera d'Asti Superiore;Il Falchetto
+4709;Italy;Printi Riserva;87;45;Piedmont;Roero;Monchiero Carbone
+4710;Italy;La Ribelle;87;20;Piedmont;Barbera d'Asti;Montalbera
+4716;Italy;Armujan;87;28;Piedmont;Barbera d'Alba;Podere Ruggeri Corsini
+4775;Italy;Riserva;90;90;Tuscany;Brunello di Montalcino;Fattoria dei Barbi
+4781;Italy;Bramante;90;50;Tuscany;Brunello di Montalcino;San Lorenzo
+4791;Italy;15er;85;15;Northeastern Italy;Alto Adige;Castelfeder
+4792;Italy;Lunaria;85;16;Central Italy;Forlì;Castelluccio
+4793;Italy;Massi di Mandorlaia;85;19;Tuscany;Maremma;Conte Ferdinando Guicciardini
+4798;Italy;Nessuno;85;16;Central Italy;Umbria;Moretti Omero
+4838;Italy;Riserva;87;20;Tuscany;Chianti Classico;Piccini
+4857;Italy;Gherardino Riserva;87;32;Tuscany;Chianti Classico;Vignamaggio
+4858;Italy;Riserva;87;30;Tuscany;Chianti Classico;Villa Mangiacane
+4871;Italy;Extra Brut Metodo Classico;87;30;Italy Other;Vino Spumante;Murgo
+4873;Italy;Quadrato;87;12;Tuscany;Toscana;OT
+4876;Italy;Lippo;87;28;Tuscany;Toscana;Pieve Santo Stefano
+4878;Italy;Le Cataste;87;37;Tuscany;Toscana;Quercia al Poggio
+4880;Italy;Inferno Riserva;87;40;Lombardy;Valtellina Superiore;Rainoldi
+4886;Italy;Luna Nascente Rosé Extra Dry;87;13;Italy Other;Vino Spumante;Vigna di Pettineo
+4892;Italy;Indue;87;30;Tuscany;Toscana;Volpaia
+4906;Italy;Bordini;91;62;Piedmont;Barbaresco;Fontanabianca
+4915;Italy;Rocca Rubia;91;28;Sicily & Sardinia;Carignano del Sulcis;Cantina Santadi
+4921;Italy;Terre Bianche;91;20;Sicily & Sardinia;Alghero;Sella & Mosca
+4924;Italy;Stellato;91;30;Sicily & Sardinia;Vermentino di Sardegna;Pala
+4946;Italy;Poggio Stella;86;13;Tuscany;Cortona;Vecchia Cantina di Montepulciano
+4960;Italy;Brenntal Riserva;90;23;Northeastern Italy;Alto Adige;Cantina Cortaccia
+4961;Italy;Dellago;90;22;Northeastern Italy;Alto Adige;Cantina Produttori Bolzano S. Maddalena/Gries
+4971;Italy;Cicogna;90;35;Veneto;Veneto;Domenico Cavazza
+4980;Italy;Amativo;88;39;Southern Italy;Salento;Cantele
+4984;Italy;Donna Chiara Campi Taurasini;88;30;Southern Italy;Irpinia;Colli di Lapio
+4990;Italy;Cinque Querce;88;54;Southern Italy;Irpinia;Salvatore Molettieri
+4991;Italy;Torre Pieve;88;30;Veneto;Veneto;Santa Maria
+4994;Italy;Capitel San Rocco;88;23;Veneto;Rosso del Veronese;Tedeschi
+4996;Italy;Cunto;88;45;Southern Italy;Campania;Fattoria Alois
+4997;Italy;Fine Sweet;88;12;Sicily & Sardinia;Marsala;Florio
+5045;Italy;Pora Riserva;91;65;Piedmont;Barbaresco;Produttori del Barbaresco
+5064;Italy;Pressenda;87;80;Piedmont;Barolo;Abbona Marziano
+5065;Italy;Scarrone;87;65;Piedmont;Barolo;Bava
+5086;Italy;Bussia;87;90;Piedmont;Barolo;Parusso
+5112;Italy;Epico;86;45;Piedmont;Barbera d'Asti Superiore;Pico Maccario
+5113;Italy;Lavignone;86;17;Piedmont;Barbera d'Asti;Pico Maccario
+5137;Italy;Ilatraia;92;70;Tuscany;Toscana;Brancaia
+5196;Italy;Capatosta;90;32;Tuscany;Morellino di Scansano;Poggio Argentiera
+5198;Italy;Riserva;90;33;Tuscany;Chianti Classico;Querciavalle
+5208;Italy;Allegracore Rosso;92;28;Sicily & Sardinia;Etna;Fattorie Romeo del Castello
+5220;Italy;Figliodienneenne;92;18;Sicily & Sardinia;Sicilia;Le Casematte
+5251;Italy;Salco;91;65;Tuscany;Vino Nobile di Montepulciano;Salcheto
+5264;Italy;San Lorenzo;88;17;Central Italy;Rosso Conero;Umani Ronchi
+5265;Italy;Villa Angela;88;15;Central Italy;Falerio;Velenosi
+5267;Italy;Luigi Ghislieri;88;35;Central Italy;Verdicchio dei Castelli di Jesi;Colonnara
+5274;Italy;Riserva Sassi Neri;88;35;Central Italy;Conero;Fattoria Le Terrazze
+5285;Italy;Del Pozzo Buono;87;18;Central Italy;Rosso Piceno;Vicari
+5298;Italy;Pieve dei Monaci;88;17;Tuscany;Maremma;Pieve Vecchia
+5306;Italy;La Togata;88;36;Tuscany;Rosso di Montalcino;Tenuta Carlina
+5312;Italy;Le Ellere;88;25;Tuscany;Chianti Classico;Castello d'Albola
+5336;Italy;Is Solinas;87;40;Sicily & Sardinia;Isola dei Nuraghi;Argiolas
+5349;Italy;Giovin Re;89;50;Tuscany;Toscana;Michele Satta
+5361;Italy;I Vasari Old Vines;89;25;Central Italy;Montepulciano d'Abruzzo;Barba
+5368;Italy;Amansio Passito;89;55;Tuscany;Val di Cornia Suvereto;Gualdo del Re
+5371;Italy;San Giovanni;89;25;Central Italy;Orvieto Classico Superiore;Castello della Sala
+5372;Italy;Bellezza Gran Selezione;89;38;Tuscany;Chianti Classico;Castello di Gabbiano
+5400;Italy;Riserva;85;29;Tuscany;Chianti Classico;Valiano
+5414;Italy;Sorano;88;90;Piedmont;Barolo;Claudio Alario
+5424;Italy;Riserva;88;44;Piedmont;Barbaresco;Gian Piero Marrone
+5446;Italy;Rosè Brut;88;40;Lombardy;Franciacorta;Ricci Curbastro
+5448;Italy;La Roggia;88;60;Veneto;Recioto della Valpolicella Classico;Speri
+5449;Italy;Brut;88;50;Northeastern Italy;Friuli;Eugenio Collavini
+5455;Italy;Tre Venti Brut Millesimato;88;26;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Zardetto
+5456;Italy;Brut Cuvèe 4 Millesimato;88;29;Lombardy;Franciacorta;Bersi Serlini
+5457;Italy;Villa Crespia Iacono Riserva Dosaggio Zero;88;65;Lombardy;Franciacorta;Fratelli Muratori
+5458;Italy;Extra Brut;88;30;Lombardy;Franciacorta;Lantieri de Paratico
+5477;Italy;Serrano;86;14;Central Italy;Rosso Conero;Umani Ronchi
+5489;Italy;Collezione;86;12;Northeastern Italy;Delle Venezie;Ecco Domani
+5491;Italy;Poggio Doria;93;148;Tuscany;Brunello di Montalcino;Tenute Silvio Nardi
+5502;Italy;Guado de' Gemoli;93;90;Tuscany;Bolgheri Superiore;Giovanni Chiappini
+5550;Italy;Kirchleiten;90;30;Northeastern Italy;Alto Adige;Tiefenbrunner
+5554;Italy;Campanaro;90;33;Southern Italy;Irpinia;Feudi di San Gregorio
+5561;Italy;Confini;90;37;Northeastern Italy;Venezia Giulia;Lis Neris
+5562;Italy;Torveto;90;32;Central Italy;Umbria;Lungarotti
+5565;Italy;Penon;90;20;Northeastern Italy;Alto Adige;Nals Margreid
+5568;Italy;Batàr;90;90;Tuscany;Toscana;Agricola Querciabella
+5570;Italy;Hofstatt;90;20;Northeastern Italy;Alto Adige;Cantina Cortaccia
+5574;Italy;Penon;90;20;Northeastern Italy;Alto Adige;Nals Margreid
+5577;Italy;Le Moie;87;20;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Fazi Battaglia
+5579;Italy;Cà del Magro;87;16;Veneto;Custoza Superiore;Monte del Frá
+5589;Italy;le Pietre;86;12;Veneto;Veronese;Aldegheri
+5592;Italy;Toretta Classico;86;14;Northeastern Italy;Alto Adige;Girlan
+5604;Italy;I Saltari Le Vigne di Turano;88;25;Veneto;Valpolicella Superiore;Sartori
+5608;Italy;La Coeta;88;61;Veneto;Amarone della Valpolicella Classico;Corte Lenguin
+5609;Italy;Campi Magri;88;43;Veneto;Valpolicella Superiore Ripasso;Corte Sant' Alda
+5616;Italy;Zovo;88;47;Veneto;Amarone della Valpolicella;Zanoni
+5628;Italy;Radici;90;30;Southern Italy;Fiano di Avellino;Mastroberardino
+5634;Italy;Magno Megonio;90;35;Southern Italy;Val di Neto;Librandi
+5641;Italy;Cutizzi;90;33;Southern Italy;Greco di Tufo;Feudi di San Gregorio
+5649;Italy;Per Sempre;90;300;Tuscany;Toscana;Tua Rita
+5650;Italy;Perlato del Bosco;90;28;Tuscany;Toscana;Tua Rita
+5661;Italy;Millepassi;90;58;Tuscany;Bolgheri;Donna Olimpia 1898
+5670;Italy;Sondraia;90;50;Tuscany;Bolgheri Superiore;Poggio al Tesoro
+5704;Italy;Riserva;91;50;Piedmont;Barolo;Villadoria
+5713;Italy;Poggio Abate Riserva;91;78;Tuscany;Brunello di Montalcino;La Poderina
+5714;Italy;Scrio;91;160;Tuscany;Toscana;Le Macchiole
+5726;Italy;Rocche di Castiglione;90;200;Piedmont;Barolo;Vietti
+5737;Italy;Anas-cëtta;90;28;Piedmont;Langhe;Elvio Cogno
+5741;Italy;Castel Ringberg Riserva;90;45;Northeastern Italy;Alto Adige;Elena Walch
+5742;Italy;Georg Mumelter;90;22;Northeastern Italy;Alto Adige;Griesbauerhof
+5774;Italy;Scarnocchio;92;99;Veneto;Amarone della Valpolicella Classico;Monte del Frà
+5776;Italy;Vigna Garzon;92;79;Veneto;Amarone della Valpolicella;Pieropan
+5778;Italy;Costasera;92;64;Veneto;Amarone della Valpolicella Classico;Masi
+5836;Italy;Cerretta;88;70;Piedmont;Barolo;Revello Fratelli
+5842;Italy;Iperico;88;30;Veneto;Valpolicella;Valentina Cubi
+5861;Italy;Lila;88;15;Southern Italy;Irpinia;Tenuta Cavalier Pepe
+5966;Italy;Amabile;83;11;Central Italy;Orvieto Classico;Bigi
+5974;Italy;Passobianco;87;29;Sicily & Sardinia;Terre Siciliane;Passopisciaro
+5981;Italy;del Marchese;87;20;Sicily & Sardinia;Terre Siciliane;Marchesi De Gregorio
+5988;Italy;Codalunga;87;19;Southern Italy;Puglia;Tenute Girolamo
+5992;Italy;Enrico IV Bianco;87;25;Sicily & Sardinia;Etna;Cantine Valenti
+6002;Italy;Rosso Campofiorin Oro;90;23;Veneto;Veronese;Masi
+6015;Italy;La Roverina;90;17;Veneto;Valpolicella Classico Superiore;Speri
+6020;Italy;Lampante Riserva;90;22;Central Italy;Montefalco Rosso;Tenute Lunelli
+6057;Italy;Le Corti;89;25;Tuscany;Chianti Classico;Principe Corsini
+6064;Italy;Mocenni Gran Selezione;89;60;Tuscany;Chianti Classico;Bindi Sergardi
+6067;Italy;Baruffo;89;22;Tuscany;Chianti Classico;Cantalici L'Antica Fornace di Ridolfo
+6069;Italy;Riserva;89;20;Tuscany;Chianti Classico;Castello di Gabbiano
+6101;Italy;Noras;87;27;Sicily & Sardinia;Carignano del Sulcis;Cantina Santadi
+6112;Italy;Dule;87;39;Sicily & Sardinia;Cannonau di Sardegna;Giuseppe Gabbas
+6121;Italy;Brunate;92;110;Piedmont;Barolo;Ceretto
+6134;Italy;del Comune di Serralunga d'Alba;92;60;Piedmont;Barolo;Paolo Manzone
+6140;Italy;del Comune di Serralunga d'Alba;92;53;Piedmont;Barolo;Giovanni Rosso
+6144;Italy;Carobric;92;80;Piedmont;Barolo;Paolo Scavino
+6159;Italy;Cartizze;89;31;Veneto;Prosecco Superiore di Cartizze;Le Colture
+6174;Italy;Amabile;87;19;Central Italy;Lambrusco Grasparossa di Castelvetro;Villa di Corlo
+6191;Italy;Rombone;87;50;Piedmont;Barbaresco;Nada Fiorenzo
+6195;Italy;Lavignone;87;16;Piedmont;Barbera d'Asti;Pico Maccario
+6230;Italy;Vernatsch;90;24;Northeastern Italy;Alto Adige;Baron Widmann
+6231;Italy;Pressoni;90;16;Veneto;Soave Classico;Cantina del Castello
+6232;Italy;Glen Riserva;90;24;Northeastern Italy;Alto Adige;Cantina Produttori Cortaccia
+6243;Italy;Castel Ringberg;90;25;Northeastern Italy;Alto Adige;Elena Walch
+6252;Italy;Il Rivale;90;23;Lombardy;Lugana;Pratello
+6259;Italy;Passion;90;29;Northeastern Italy;Alto Adige;St. Pauls
+6309;Italy;Riserva Roggiano;83;22;Tuscany;Morellino di Scansano;Vignaioli del Morellino di Scansano
+6314;Italy;Riserva;83;20;Tuscany;Chianti Classico;Natale Verga
+6315;Italy;Dirupo Brut;92;19;Veneto;Valdobbiadene Prosecco Superiore;Andreola
+6321;Italy;Primo Franco Dry;91;29;Veneto;Valdobbiadene Prosecco Superiore;Nino Franco
+6337;Italy;Oltreval Rive di Guia Zero;91;23;Veneto;Valdobbiadene Prosecco Superiore;La Tordera
+6355;Italy;Sciala Superiore;93;23;Sicily & Sardinia;Vermentino di Gallura;Vigne Surrau
+6364;Italy;Ovello Vigna Loreto;93;55;Piedmont;Barbaresco;Albino Rocca
+6369;Italy;Altenasso;93;85;Piedmont;Barolo;Cavalier Bartolomeo
+6375;Italy;Appassionatamente Rosso;87;17;Veneto;Veneto;Famiglia Cielo
+6387;Italy;Nature;86;22;Veneto;Prosecco;De Stefani
+6397;Italy;Cuvée Viviana;86;28;Veneto;Valdobbiadene Superiore di Cartizze;Valdo
+6416;Italy;Bianco;85;10;Sicily & Sardinia;Sicilia;Corvo
+6424;Italy;Riserva;96;73;Tuscany;Brunello di Montalcino;Mocali
+6436;Italy;Vigna Paganelli Riserva;95;115;Tuscany;Brunello di Montalcino;Il Poggione
+6439;Italy;Poggio all'Oro Riserva;95;150;Tuscany;Brunello di Montalcino;Castello Banfi
+6452;Italy;Guglielmi di Jago;91;95;Veneto;Amarone della Valpolicella Classico;Villa Spinosa
+6463;Italy;I Fondatori Riserva;91;80;Veneto;Amarone della Valpolicella Classico;Fabiano
+6466;Italy;I Progni;91;27;Veneto;Valpolicella Classico Superiore Ripasso;Le Salette
+6469;Italy;Campo Leòn;91;54;Veneto;Amarone della Valpolicella;Latium di Morini
+6484;Italy;Montefresco;83;11;Central Italy;Montepulciano d'Abruzzo;Montefrasco
+6603;Italy;Caspagnolo;86;15;Tuscany;Chianti Colli Senesi;Villa Poggio Salvi
+6606;Italy;Vigna Aprico;86;12;Tuscany;Vernaccia di San Gimignano;Le Solive
+6625;Italy;Guado al Melo;88;18;Tuscany;Toscana;Podere Guado al Melo
+6626;Italy;Losi Millennium Riserva;88;36;Tuscany;Chianti Classico;Querciavalle
+6631;Italy;Monte Carbonare;88;33;Veneto;Soave Classico;Suavia
+6636;Italy;I Boschi;88;25;Piedmont;Piedmont;Tenuta Olim Bauda
+6638;Italy;Extra Dry 47;88;24;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bortolotti
+6641;Italy;Costebianche;88;20;Piedmont;Piedmont;Coppo
+6645;Italy;Laudàri;90;21;Sicily & Sardinia;Sicilia;Baglio del Cristo di Campobello
+6646;Italy;Fontanelle;90;19;Tuscany;Toscana;Castello Banfi
+6650;Italy;Tenuta La Solatìa;90;24;Tuscany;Toscana;Ruffino
+6654;Italy;Grand Cru;90;38;Sicily & Sardinia;Sicilia;Tenuta Rapitalà
+6679;Italy;Costa Russi;93;500;Piedmont;Langhe;Gaja
+6683;Italy;San Pietro Riserva;93;105;Piedmont;Barolo;Viberti
+6689;Italy;Roncaglie;93;70;Piedmont;Barbaresco;Poderi Colla
+6692;Italy;Nervo;93;49;Piedmont;Barbaresco;Rizzi
+6694;Italy;Pajorè;93;58;Piedmont;Barbaresco;Sottimano
+6696;Italy;Bramasole;91;53;Tuscany;Cortona;La Braccesca
+6713;Italy;Bussia;91;53;Piedmont;Barolo;Deltetto
+6716;Italy;Altrovino;91;40;Tuscany;Costa Toscana;Duemani
+6741;Italy;Vendemmia Tardiva;94;55;Tuscany;Moscadello di Montalcino;La Poderina
+6750;Italy;Vigna Manapetra;89;48;Tuscany;Brunello di Montalcino;Fattoria La Lecciaia
+6753;Italy;Ferruggini;89;18;Tuscany;Bolgheri;Giovanni Chiappini
+6784;Italy;Vespa;89;40;Northeastern Italy;Venezia Giulia;Bastianich
+6798;Italy;Sugarille;89;190;Tuscany;Brunello di Montalcino;Pieve Santa Restituta
+6801;Italy;Riserva;89;52;Tuscany;Brunello di Montalcino;Fattoria La Lecciaia
+6823;Italy;Riserva;91;120;Tuscany;Brunello di Montalcino;Le Chiuse
+6830;Italy;Voliero;91;55;Tuscany;Brunello di Montalcino;Casato1
+6831;Italy;Campo del Drago;91;80;Tuscany;Brunello di Montalcino;Castiglion del Bosco
+6842;Italy;Le Chiuse di Sotto;91;65;Tuscany;Brunello di Montalcino;Gianni Brunelli
+6843;Italy;Vigna Piaggia;91;60;Tuscany;Brunello di Montalcino;Abbadia Ardenga
+6851;Italy;Selezione Madonna delle Grazie;91;99;Tuscany;Brunello di Montalcino;Il Marroneto
+6854;Italy;Miravel Extra Dry;89;20;Veneto;Valdobbiadene Prosecco Superiore;Bellenda
+6855;Italy;Grand Cuvée del Fondatore Motus Vitae Rive San Pietro di Barbozza Brut Nature;89;26;Veneto;Valdobbiadene Prosecco Superiore;Bortolomiol
+6859;Italy;Extra Dry;89;19;Veneto;Valdobbiadene Prosecco Superiore;Terre di San Venanzio Fortunato
+6874;Italy;Fagher Brut;89;18;Veneto;Valdobbiadene Prosecco Superiore;Le Colture
+6893;Italy;Classic;87;18;Northeastern Italy;Alto Adige;Erste Neue
+6894;Italy;Leopold;87;24;Northeastern Italy;Collio;Fiegl
+6900;Italy;Graf von Meran;87;20;Northeastern Italy;Alto Adige;Meran
+6901;Italy;Riserva;87;19;Northeastern Italy;Trentino;Mezzacorona
+6917;Italy;La Froscà;93;29;Veneto;Soave Classico;Gini
+6963;Italy;Ventale;86;14;Veneto;Valpolicella Superiore;Santi
+6994;Italy;Sire;89;20;Piedmont;Langhe;Monchiero Carbone
+7007;Italy;Bordini;89;47;Piedmont;Barbaresco;Elvio Cogno
+7011;Italy;Vigneto Cialdini;89;16;Central Italy;Lambrusco Grasparossa di Castelvetro;Cleto Chiarli
+7023;Italy;Millesimato Brut;92;52;Lombardy;Franciacorta;La Montina
+7024;Italy;Zerum Riserva Dosaggio Zero;92;95;Lombardy;Franciacorta;La Valle
+7069;Italy;Vigna Campo del Gatto;84;30;Piedmont;Barbera d'Alba;Costa di Bussia
+7100;Italy;GeG;87;31;Veneto;Valdobbiadene Prosecco Superiore;De Faveri
+7103;Italy;Blanc de Blancs Pas Dosé Metodo Classico;87;32;Italy Other;Vino Spumante;Dorigo
+7118;Italy;Extra Dry;87;18;Veneto;Valdobbiadene Prosecco Superiore;La Gioiosa
+7119;Italy;Cuvée Oris;87;22;Veneto;Valdobbiadene Prosecco Superiore;Villa Sandi
+7133;Italy;Antrum;88;48;Central Italy;Montepulciano d'Abruzzo;Ciavolich Giuseppe
+7142;Italy;Bricco delle Olive;85;25;Piedmont;Barbera d'Alba Superiore;Palladino
+7153;Italy;Torlasco;84;16;Piedmont;Moscato d'Asti;Tosti
+7156;Italy;Rosa del Marchese;84;19;Piedmont;Barbera d'Asti;Gruppo Casaleone
+7157;Italy;Le Orme;84;13;Piedmont;Barbera d'Asti;Michele Chiarlo
+7160;Italy;Vigna Cerretta;83;81;Piedmont;Barolo;Ca'Romè
+7161;Italy;Lurëi;83;27;Piedmont;Barbera d'Asti Superiore;Il Falchetto
+7166;Italy;Cutizzi;90;37;Southern Italy;Greco di Tufo;Feudi di San Gregorio
+7173;Italy;Cometa;90;42;Sicily & Sardinia;Sicilia;Planeta
+7212;Italy;Don Antonio;90;41;Sicily & Sardinia;Sicilia;Morgante
+7213;Italy;Starderi;90;70;Piedmont;Barbaresco;Olek Bondonio
+7214;Italy;Marcarini;90;50;Piedmont;Barbaresco;Pertinace
+7223;Italy;Tenuta Lena di Mezzo;87;21;Veneto;Valpolicella Classico Superiore;Monte del Frá
+7224;Italy;Capitel della Crosara;87;16;Veneto;Valpolicella Ripasso;Montresor
+7233;Italy;Il Re Pazzo;87;20;Veneto;Valpolicella Classico;Terre di Leone
+7247;Italy;Brentino;87;18;Veneto;Veneto;Maculan
+7280;Italy;San Leonardo;89;75;Northeastern Italy;Vigneti delle Dolomiti;Tenuta San Leonardo
+7290;Italy;Contrada Sant'Aniello;90;36;Southern Italy;Fiano di Avellino;Vigne Guadagno
+7321;Italy;Vigna di Pallino;81;10;Tuscany;Toscana;Tenuta Sette Ponti
+7335;Italy;Occhio di Pernice;100;210;Tuscany;Vin Santo di Montepulciano;Avignonesi
+7348;Italy;Villa al Cortile;88;45;Tuscany;Brunello di Montalcino;Piccini
+7361;Italy;Annata;88;60;Tuscany;Brunello di Montalcino;Il Poggiolo
+7390;Italy;Barrua;92;60;Sicily & Sardinia;Isola dei Nuraghi;Agricola Punica
+7395;Italy;Quarz;92;60;Northeastern Italy;Alto Adige;Cantina Terlano
+7453;Italy;Cursus Vitae;86;18;Piedmont;Barbera d'Asti;CarlindePaolo
+7454;Italy;Roccanera;86;16;Piedmont;Barbera d'Asti Superiore;Cascina Radice
+7459;Italy;Bricco di Neive Riserva;86;78;Piedmont;Barbaresco;Dante Rivetti
+7469;Italy;Vigneto Bordini;86;60;Piedmont;Barbaresco;La Spinetta
+7476;Italy;Santo Cristoforo;86;48;Piedmont;Barbaresco;Pietro Rinaldi
+7478;Italy;S. Martino;86;12;Piedmont;Barbera d'Asti Superiore;Cascina Radice
+7509;Italy;Naturae;92;45;Lombardy;Franciacorta;Barone Pizzini
+7512;Italy;Dosaggio Zero;92;30;Veneto;Valdobbiadene Prosecco Superiore;Ca' dei Zago
+7534;Italy;Il Morino;87;10;Tuscany;Toscana;Vignamaggio
+7536;Italy;Riserva;87;22;Tuscany;Chianti Classico;Piccini
+7541;Italy;Riserva;87;18;Tuscany;Chianti Classico;Banfi
+7542;Italy;Riserva;87;18;Tuscany;Chianti Rufina;Bellini
+7549;Italy;Lagone;91;16;Tuscany;Toscana;Aia Vecchia
+7578;Italy;Col di Luna;85;16;Veneto;Piave;Bellenda
+7580;Italy;Capitel della Crosara;85;41;Veneto;Amarone della Valpolicella Classico;Montresor
+7597;Italy;Classico;83;15;Northeastern Italy;Alto Adige;Cantina Terlano
+7598;Italy;Sortesele;83;12;Northeastern Italy;Trentino;Santi
+7618;Italy;Tasi Brut;87;22;Veneto;Prosecco;Gino Fasoli
+7629;Italy;Saomì Brut;87;16;Veneto;Prosecco Treviso;La Tordera
+7636;Italy;San Fermo Brut;87;20;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bellenda
+7637;Italy;Brut;87;22;Veneto;Valdobbiadene Prosecco Superiore;Borgoluce
+7640;Italy;Brut;87;18;Veneto;Valdobbiadene Prosecco Superiore;Althéa
+7641;Italy;Rive di Col San Martino Brut 26° Primo;87;22;Veneto;Valdobbiadene Prosecco Superiore;Andreola
+7642;Italy;Cosmo E' Col Fondo;87;20;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bellenda
+7644;Italy;I Versi Bianco;85;8;Sicily & Sardinia;Sicilia;Fondo Antico
+7650;Italy;Aquilae;85;13;Sicily & Sardinia;Sicilia;Viticultori Associati Canicatti
+7661;Italy;Bianco;85;10;Sicily & Sardinia;Sicilia;Corvo
+7664;Italy;Calanìca Frappato-Syrah;85;20;Sicily & Sardinia;Sicilia;Duca di Salaparuta
+7691;Italy;Hierà;90;20;Sicily & Sardinia;Salina;Hauner
+7694;Italy;Patrimonio;86;14;Tuscany;Bolgheri;Antonino Tringali-Casanuova
+7744;Italy;Sassella;88;35;Lombardy;Valtellina Superiore;Mamete Prevostini
+7758;Italy;Bussia;91;95;Piedmont;Barolo;Parusso
+7781;Italy;Vigna Fraschin;92;39;Piedmont;Barolo;Manzone Fratelli
+7784;Italy;Sottocastello di Novello;92;47;Piedmont;Barolo;Ca' Viola
+7790;Italy;Fausoni Riserva;92;62;Piedmont;Barbaresco;Prinsi
+7792;Italy;Villero;92;99;Piedmont;Barolo;Mascarello Giuseppe e Figlio
+7856;Italy;Vintage Collection Brut;94;75;Lombardy;Franciacorta;Ca' del Bosco
+7861;Italy;Dosaggiozero Riserva;94;67;Northeastern Italy;Trento;Maso Martis
+7877;Italy;Cuvée Annamaria Clementi;94;90;Lombardy;Franciacorta;Ca' del Bosco
+7891;Italy;Ca' de' Rocchi;84;13;Lombardy;Lugana;Tinazzi
+7897;Italy;Ca' del Lago;84;13;Lombardy;Lugana;Vigneti Villabella
+7915;Italy;La Casa in Collina;90;40;Piedmont;Barbaresco;Vite Colte
+7921;Italy;I Selis Rosso Superiore;90;30;Sicily & Sardinia;Monica di Sardegna;Argiolas
+7936;Italy;Rabajà Riserva;90;85;Piedmont;Barbaresco;Castello di Verduno
+7952;Italy;L'Aspetto;88;28;Tuscany;Toscana;Fattoria Fibbiano
+7954;Italy;Sibilla Appeninica Vin Santo;88;35;Central Italy;Marche;Le Caniette
+7962;Italy;Villa Cusona;86;15;Tuscany;Vernaccia di San Gimignano;Guicciardini Strozzi
+7969;Italy;Arcosesto;86;16;Central Italy;Orvieto Classico Superiore;Cantina Altarocca
+7984;Italy;Quercione Riserva;85;55;Tuscany;Vino Nobile di Montepulciano;Lunadoro
+7986;Italy;Aurea Riserva;85;25;Tuscany;Vernaccia di San Gimignano;Guidi 1929
+7987;Italy;Monte Fiorentine;87;33;Veneto;Soave Classico;Ca' Rugate
+7988;Italy;Re Midas;87;10;Veneto;Soave;Cantina di Soave
+8005;Italy;Vin Soave;87;15;Veneto;Soave Classico;Inama
+8007;Italy;Matiú Brut;87;20;Veneto;Conegliano Valdobbiadene Prosecco Superiore;L'Antica Quercia
+8014;Italy;Essence Rosé;86;32;Lombardy;Franciacorta;Antica Fratta
+8029;Italy;Brut Satèn;86;39;Lombardy;Franciacorta;Il Mosnel
+8049;Italy;Cren del Gufo;86;14;Piedmont;Nebbiolo d'Alba;Cantine Lanzavecchia
+8107;Italy;Campomasua;93;79;Veneto;Amarone della Valpolicella Classico;Venturini Massimino
+8109;Italy;Costasera Riserva;93;77;Veneto;Amarone della Valpolicella Classico;Masi
+8113;Italy;La Marega;93;92;Veneto;Amarone della Valpolicella Classico;Le Salette
+8134;Italy;Natural Art;87;45;Northeastern Italy;Delle Venezie;Miklus
+8137;Italy;Brut;87;18;Veneto;Prosecco Treviso;Ornella Molon
+8160;Italy;Poiano;87;13;Sicily & Sardinia;Terre Siciliane;Curto
+8167;Italy;Maddalena;87;12;Southern Italy;Basilicata;Taverna
+8193;Italy;Talento Riserva;91;19;Northeastern Italy;Trento;Rotari
+8218;Italy;Re di Renieri;92;40;Tuscany;Toscana;Renieri
+8226;Italy;Nature;92;40;Lombardy;Franciacorta;Barone Pizzini
+8237;Italy;Vigneti di Ravazzol;92;70;Veneto;Amarone della Valpolicella Classico;Cà La Bionda
+8255;Italy;Tenuta del Cavaliere;89;16;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Marchetti
+8256;Italy;Cantorì;89;22;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Accadia
+8266;Italy;Rugaro Gold;89;17;Central Italy;Offida Pecorino;Colli Ripani
+8306;Italy;Riserva;92;58;Tuscany;Brunello di Montalcino;Fattoria La Lecciaia
+8314;Italy;Biserno;92;160;Tuscany;Toscana;Tenuta di Biserno
+8332;Italy;Riserva Ambrosia;87;22;Central Italy;Verdicchio dei Castelli di Jesi Classico;Vignamato
+8339;Italy;Ammazzaconte;87;23;Central Italy;Verdicchio dei Castelli di Jesi;Conti di Buscareto
+8345;Italy;Praeludium;87;15;Central Italy;Rosso Conero;Fattoria Le Terrazze
+8349;Italy;Il Nespoli Riserva;87;27;Central Italy;Romagna;Podere dal Nespoli
+8368;Italy;Alba della Torre Secco;87;25;Central Italy;Romagna;La Sabbiona
+8375;Italy;Vigna Santa Margherita;87;26;Tuscany;Vernaccia di San Gimignano;Panizzi
+8376;Italy;Soteria;87;14;Central Italy;Verdicchio dei Castelli di Jesi;Vigna degli Estensi
+8384;Italy;Peloro Bianco;92;20;Sicily & Sardinia;Terre Siciliane;Le Casematte
+8455;Italy;Petra;92;80;Tuscany;Toscana;Petra
+8458;Italy;Rubesco Riserva Vigna Monticchio;92;57;Central Italy;Torgiano;Lungarotti
+8465;Italy;Castello di Semivicoli;92;50;Central Italy;Trebbiano d'Abruzzo;Masciarelli
+8483;Italy;Corte del Pozzo;88;75;Veneto;Amarone della Valpolicella;Gino Fasoli
+8491;Italy;Poggio al Tufo;86;15;Tuscany;Maremma;Tommasi
+8509;Italy;Nemus;86;14;Tuscany;Toscana;Scopetani
+8514;Italy;Il Gregoriano;86;12;Tuscany;Sant'Antimo;Fattoria Scopone
+8524;Italy;Tribiana;87;20;Tuscany;Toscana;Pieve de' Pitti
+8525;Italy;Valente;87;19;Tuscany;Toscana;Podere Il Castellaccio
+8526;Italy;Dinostro;87;20;Tuscany;Toscana;Podere Il Castellaccio
+8537;Italy;Dianne;87;50;Tuscany;Toscana;Tenuta Cappellina
+8538;Italy;Alle Viole;87;27;Tuscany;Toscana;Tenuta di Ceppaiano
+8539;Italy;Crognolo;87;35;Tuscany;Toscana;Tenuta Sette Ponti
+8546;Italy;Guadalmare;87;15;Tuscany;Morellino di Scansano;Castellani
+8565;Italy;Flaccianello della Pieve;93;120;Tuscany;Colli della Toscana Centrale;Fontodi
+8637;Italy;Montecorna;89;20;Veneto;Valpolicella Classico Superiore Ripasso;Farina
+8645;Italy;Ca' Bertoldi;89;40;Veneto;Amarone della Valpolicella Classico;Recchia
+8654;Italy;Riserva Fondatori;89;60;Veneto;Amarone della Valpolicella;Musella
+8663;Italy;Vigneto I Cantoni;88;25;Veneto;Valpolicella Classico Superiore;Novaia
+8684;Italy;Case Nere;88;75;Piedmont;Barolo;Enzo Boglietti
+8695;Italy;Delius;88;41;Southern Italy;Aglianico del Taburno;Cantina del Taburno
+8708;Italy;Giancarlo Ceci Parco Marano;88;27;Southern Italy;Castel del Monte;Agrinatura
+8711;Italy;Riserva Le More;88;44;Southern Italy;Castel del Monte;Santa Lucia
+8712;Italy;Ripassá;88;18;Veneto;Valpolicella Superiore Ripasso;Stefano Accordini
+8713;Italy;Terre di Tufi;88;19;Tuscany;Toscana;Teruzzi & Puthod
+8721;Italy;Contado;88;17;Southern Italy;Molise;Di Majo Norante
+8722;Italy;Ramitello;88;17;Southern Italy;Terra degli Osci;Di Majo Norante
+8725;Italy;Elcione;87;18;Central Italy;Umbria;Tenuta Vitalonga
+8726;Italy;Vigna Rocca;87;14;Central Italy;Albana di Romagna;Tre Monti
+8734;Italy;Bio-571;87;14;Central Italy;Sangiovese di Romagna;Tenuta Amalia
+8735;Italy;Prova d'Autore;87;25;Central Italy;Umbria;Roccafiore
+8736;Italy;Clemente VII;87;18;Tuscany;Chianti Classico;Castelli del Grevepesa
+8747;Italy;Rosso dei Notri;89;21;Tuscany;Toscana;Tua Rita
+8749;Italy;Castelgreve;89;20;Tuscany;Chianti Classico;Castelli del Grevepesa
+8765;Italy;Paisan;89;17;Piedmont;Nebbiolo d'Alba;Bersano
+8771;Italy;Rosato;89;20;Sicily & Sardinia;Etna;Graci
+8795;Italy;Don Antonio;89;42;Sicily & Sardinia;Sicilia;Morgante
+8802;Italy;Le Lucere;87;53;Tuscany;Brunello di Montalcino;San Filippo
+8809;Italy;Crosè';87;19;Piedmont;Langhe;Pasquale Pelissero
+8835;Italy;Bricco Rocche;93;270;Piedmont;Barolo;Ceretto
+8836;Italy;Brunate;93;130;Piedmont;Barolo;Ceretto
+8846;Italy;Bussia Riserva 90 Dì;93;90;Piedmont;Barolo;Giacomo Fenocchio
+8847;Italy;Arione;93;59;Piedmont;Barolo;Gigi Rosso
+8850;Italy;Carobric;93;72;Piedmont;Barolo;Paolo Scavino
+8859;Italy;Costa Russi;95;450;Piedmont;Barbaresco;Gaja
+8865;Italy;5 Stelle;95;82;Lombardy;Sforzato di Valtellina;Nino Negri
+8887;Italy;Vigneto Brich Ronchi;93;60;Piedmont;Barbaresco;Albino Rocca
+8890;Italy;Rocche di Castelletto;93;74;Piedmont;Barolo;Cascina Chicco
+8898;Italy;San Pietro;93;50;Piedmont;Barolo;Podere Ruggeri Corsini
+8903;Italy;La Rosa;93;115;Piedmont;Barolo;Fontanafredda
+8907;Italy;Coste di Rose;93;61;Piedmont;Barolo;Bric Cenciurio
+8909;Italy;Massara;93;65;Piedmont;Barolo;Castello di Verduno
+8927;Italy;Riserva Novecento;91;50;Tuscany;Chianti Classico;Dievole
+8931;Italy;Riserva Cellole;91;40;Tuscany;Chianti Classico;San Fabiano Calcinaia
+8943;Italy;Il Monovitigno;89;41;Sicily & Sardinia;Sicilia;Benanti
+8944;Italy;Cusora;89;28;Sicily & Sardinia;Sicilia;Caruso & Minini
+8947;Italy;Benuara;89;14;Sicily & Sardinia;Sicilia;Cusumano
+8954;Italy;Il Matané;89;24;Southern Italy;Primitivo di Manduria;Matané
+8968;Italy;Laudàri;89;32;Sicily & Sardinia;Sicilia;Baglio del Cristo di Campobello
+8974;Italy;Castelletto;93;55;Piedmont;Barolo;Mauro Veglio
+8978;Italy;Albe;93;40;Piedmont;Barolo;G D Vajra
+8979;Italy;Rabajà Riserva;93;100;Piedmont;Barbaresco;Giuseppe Cortese
+8986;Italy;Saffredi;93;100;Tuscany;Maremma Toscana;Fattoria Le Pupille
+8990;Italy;Bussia Dardi Le Rose;93;80;Piedmont;Barolo;Poderi Colla
+9002;Italy;Plenio Riserva;88;25;Central Italy;Verdicchio dei Castelli di Jesi Classico;Umani Ronchi
+9007;Italy;Alastro;88;21;Sicily & Sardinia;Sicilia;Planeta
+9014;Italy;Santagostino Baglio Sorìa;88;30;Sicily & Sardinia;Sicilia;Firriato
+9022;Italy;Barbazzale;88;16;Sicily & Sardinia;Sicilia;Cottanera
+9042;Italy;Naun;91;30;Northeastern Italy;Alto Adige;Niedermayr Josef
+9059;Italy;Rabajà;89;75;Piedmont;Barbaresco;Cascina Luisin
+9060;Italy;Adornes;89;41;Piedmont;Barbera d'Asti Superiore;Castello Gabiano
+9063;Italy;L'Avvocata;89;15;Piedmont;Barbera d'Asti;Coppo
+9078;Italy;Galileo;89;22;Piedmont;Barbera d'Asti Superiore;Vigne dei Mastri
+9080;Italy;La Luna e i Falò;89;30;Piedmont;Barbera d'Asti Superiore;Vite Colte
+9110;Italy;Bricco delle Viole Riserva;90;105;Piedmont;Barolo;Viberti
+9117;Italy;Elisa;90;41;Piedmont;Barbaresco;Ada Nada
+9120;Italy;Riserva;90;68;Piedmont;Barolo;Casetta
+9134;Italy;Banero;84;8;Veneto;Prosecco;Banero
+9137;Italy;Rosato Frizzante;84;11;Veneto;Piave;Bonotto delle Tezze
+9146;Italy;Rosato;83;12;Piedmont;Piedmont;Tosti
+9155;Italy;Salvatore Principe Mi Amore;83;12;Italy Other;Italy;Astoria
+9164;Italy;Perlé Nero;92;78;Northeastern Italy;Trento;Ferrari
+9166;Italy;Terre di San Zeno;92;55;Veneto;Amarone della Valpolicella Classico;Corteforte
+9182;Italy;Passito;92;54;Central Italy;Montefalco Sagrantino;Arnaldo Caprai
+9183;Italy;25 Anni;92;100;Central Italy;Montefalco Sagrantino;Arnaldo Caprai
+9190;Italy;Lagone;86;16;Tuscany;Toscana;Aia Vecchia
+9214;Italy;Pegasus;86;20;Tuscany;Toscana;Podere Guado al Melo
+9244;Italy;Pelagrilli;91;42;Tuscany;Brunello di Montalcino;Siro Pacenti
+9246;Italy;Manachiara;91;105;Tuscany;Brunello di Montalcino;Tenute Silvio Nardi
+9247;Italy;Montebello Sette Gran Selezione;91;30;Tuscany;Chianti Classico;Tolaini
+9271;Italy;Salterio;86;23;Tuscany;Rosso di Montepulciano;Trerose
+9273;Italy;Piegaia;86;17;Tuscany;Chianti Classico;Villa Calcinaia
+9323;Italy;Therra;89;20;Tuscany;Toscana;PoderNuovo a Palazzone
+9330;Italy;D'Aria;89;22;Tuscany;Toscana;Leopoldo I di Toscana
+9334;Italy;Montesodi;89;43;Tuscany;Toscana;Marchesi de' Frescobaldi
+9335;Italy;Inferno;89;27;Lombardy;Valtellina Superiore;Nino Negri
+9336;Italy;Quadrio;89;20;Lombardy;Valtellina Superiore;Nino Negri
+9337;Italy;Sassella Le Tense;89;36;Lombardy;Valtellina Superiore;Nino Negri
+9338;Italy;Ca' Brione;89;36;Lombardy;Terrazze Retiche di Sondrio;Nino Negri
+9341;Italy;La Pineta;89;60;Tuscany;Toscana;Podere Monastero
+9346;Italy;Crognolo;89;35;Tuscany;Toscana;Tenuta Sette Ponti
+9347;Italy;Il Tarabuso;89;45;Tuscany;Toscana;Terre del Marchesato
+9408;Italy;075 Carati;83;15;Veneto;Prosecco;Piera Martellozzo
+9443;Italy;Brunate;92;60;Piedmont;Barolo;Francesco Rinaldi
+9454;Italy;Pernanno Riserva;92;87;Piedmont;Barolo;Sobrero
+9456;Italy;Calderara Sottana;92;40;Sicily & Sardinia;Etna;Tenuta delle Terre Nere
+9469;Italy;Vigneto Dirupo Extra Dry;87;23;Veneto;Prosecco di Valdobbiadene;Andreola Orsola
+9471;Italy;Dry;87;15;Veneto;Prosecco di Valdobbiadene;Bellussi
+9475;Italy;Brut;87;18;Northeastern Italy;Friuli;Colutta
+9476;Italy;Brut;87;20;Lombardy;Lugana;Costaripa
+9482;Italy;Ruio Brut;87;20;Veneto;Prosecco di Valdobbiadene;Malibràn
+9484;Italy;Uvaggio Storico Dry;87;24;Veneto;Prosecco di Valdobbiadene;Val d'Oca
+9495;Italy;L'Ardì;87;12;Piedmont;Dolcetto d'Acqui;Vigne Regali
+9499;Italy;Usignolo;87;27;Piedmont;Langhe;Cascina Bruciata
+9500;Italy;Vigneti in Rio Sordo;87;23;Piedmont;Dolcetto d'Alba;Cascina Bruciata
+9570;Italy;Principessa Brut;86;25;Italy Other;Vino Spumante;Luretta
+9596;Italy;Brut Altamarea;85;22;Italy Other;Vino Spumante;Ciù Ciù
+9613;Italy;Naturalis Historia;93;90;Southern Italy;Taurasi;Mastroberardino
+9624;Italy;Le More;85;40;Southern Italy;Castel del Monte;Santa Lucia
+9633;Italy;Sjre;85;20;Southern Italy;Salento;Mocavero
+9652;Italy;Muntacc;90;24;Piedmont;Coste della Sesia;La Prevostura
+9654;Italy;Riserva;90;105;Piedmont;Barolo;Marchesi di Barolo
+9655;Italy;Serragrilli;90;80;Piedmont;Barbaresco;Marchesi di Barolo
+9675;Italy;Riserva;90;60;Piedmont;Gattinara;Travaglini
+9706;Italy;Asili;90;90;Piedmont;Barbaresco;Michele Chiarlo
+9709;Italy;Silenzi;90;15;Sicily & Sardinia;Isola dei Nuraghi;Pala
+9710;Italy;Bricco San Giuliano;90;38;Piedmont;Barbaresco;Pasquale Pelissero
+9711;Italy;Nervo Vigna Giaia Riserva;90;50;Piedmont;Barbaresco;Piazzo Armando
+9731;Italy;Ronchi;90;50;Piedmont;Barbaresco;Albino Rocca
+9734;Italy;Vigna Farsina;89;65;Tuscany;Toscana;I Sodi
+9737;Italy;Rosé;89;30;Northeastern Italy;Trento;Altemasi
+9755;Italy;Linticlarus Riserva;89;40;Northeastern Italy;Alto Adige;Tiefenbrunner
+9757;Italy;Turmhof;89;20;Northeastern Italy;Alto Adige;Tiefenbrunner
+9816;Italy;Riserva;93;39;Tuscany;Chianti Classico;Badia a Coltibuono
+9820;Italy;Tre Saggi;89;16;Central Italy;Montepulciano d'Abruzzo;Talamonti
+9823;Italy;Massaccio;89;30;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Fazi Battaglia
+9824;Italy;Winkl;89;25;Northeastern Italy;Alto Adige;Cantina Terlano
+9854;Italy;San Giuliano;86;38;Piedmont;Barbaresco;Pasquale Pelissero
+9863;Italy;Emma;86;14;Central Italy;Lambrusco di Sorbara;Cantina di Sorbara
+9864;Italy;Il Duomo Amabile;86;12;Central Italy;Lambrusco di Modena;Cantina di Sorbara
+9879;Italy;Stèfen;88;130;Veneto;Veneto;De Stefani
+9889;Italy;Dry;88;40;Veneto;Valdobbiadene Superiore di Cartizze;Merotto
+9966;Italy;Don Pietro;87;23;Sicily & Sardinia;Terre Siciliane;Spadafora
+9969;Italy;Cirneco Rosso;87;45;Sicily & Sardinia;Etna;Terrazze dell'Etna
+9972;Italy;Kaid;87;29;Sicily & Sardinia;Sicilia;Alessandro di Camporeale
+9973;Italy;Appassimento;87;20;Sicily & Sardinia;Terre Siciliane;Barone Montalto
+9976;Italy;Animalucente Bianco;87;45;Sicily & Sardinia;Etna;Contrada Santo Spirito di Passopisciaro
+9989;Italy;La Tota;89;28;Piedmont;Barbera d'Asti;Marchesi Alfieri
+10002;Italy;Brut;91;29;Lombardy;Franciacorta;Il Mosnel
+10015;Italy;Riserva;91;30;Tuscany;Morellino di Scansano;Fattoria Le Pupille
+10030;Italy;Terrantica;89;30;Southern Italy;Greco di Tufo;I Favati
+10034;Italy;Cubia;89;27;Sicily & Sardinia;Sicilia;Cusumano
+10048;Italy;Franciscus;89;28;Southern Italy;Greco di Tufo;Cantine di Marzo
+10072;Italy;Vigna del Lago;88;107;Tuscany;Brunello di Montalcino;Val di Suga
+10098;Italy;Isolabella della Croce Solìo;88;40;Piedmont;Loazzolo;Borgo Isolabella
+10099;Italy;Cantalici;88;20;Tuscany;Chianti Classico;Cantalici L'Antica Fornace di Ridolfo
+10105;Italy;Piccole Gioie;88;16;Piedmont;Moscato d'Asti;Ghione
+10107;Italy;Chianti Classico;87;19;Tuscany;Chianti Classico;Castello d'Albola
+10110;Italy;Rosa del Castagno;87;29;Tuscany;Toscana;Fabrizio Dionisio
+10113;Italy;Calanìca Insolia-Chardonnay;86;13;Sicily & Sardinia;Sicilia;Duca di Salaparuta
+10119;Italy;Villa Tonino;86;8;Sicily & Sardinia;Sicilia;Baglio Curatolo Arini 1875
+10126;Italy;Timpune;86;25;Sicily & Sardinia;Sicilia;Caruso & Minini
+10131;Italy;Tenuta di Budonetto Granny;86;46;Sicily & Sardinia;Sicilia;Maurigi
+10139;Italy;Sikélios;86;37;Sicily & Sardinia;Sicilia;Scilio
+10141;Italy;Sallier de la Tour;86;11;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+10142;Italy;Carolina Marenga;86;21;Sicily & Sardinia;Sicilia;Feudi del Pisciotto
+10150;Italy;Roggeri Riserva;87;70;Piedmont;Barolo;Ciabot Berton
+10161;Italy;Peiregal;87;36;Piedmont;Barbera d'Alba;Marchesi di Barolo
+10182;Italy;Costa delle Corone;87;110;Veneto;Amarone della Valpolicella Classico;Monteci
+10214;Italy;Brut;86;11;Northeastern Italy;Trento;Rotari
+10227;Italy;Perbruno;91;55;Tuscany;Toscana;I Giusti e Zanza
+10234;Italy;5 Stelle Sfursat;91;88;Lombardy;Sforzato di Valtellina;Nino Negri
+10243;Italy;Rosso di Notri;91;20;Tuscany;Toscana;Tua Rita
+10275;Italy;Ginepreta;89;50;Central Italy;Umbria;Cirulli
+10284;Italy;Tenutarossa;88;50;Central Italy;Colline Pescaresi;Pasetti
+10287;Italy;Vigna Santella del Gröm;88;26;Lombardy;Curtefranca;Ricci Curbastro
+10323;Italy;Tridentum Brut Rosé;90;24;Northeastern Italy;Trento;Cesarini Sforza
+10335;Italy;Sassabruna;90;25;Tuscany;Monteregio di Massa Marittima;Rocca di Montemassi
+10336;Italy;Riserva;90;25;Tuscany;Chianti Classico;Valiano
+10337;Italy;Riserva;90;67;Tuscany;Vino Nobile di Montepulciano;Boscarelli
+10338;Italy;Le Bruciate Riserva;90;48;Tuscany;Brunello di Montalcino;Canneta
+10343;Italy;Massi di Mandorlaia Riserva;90;34;Tuscany;Morellino di Scansano;Conte Ferdinando Guicciardini
+10344;Italy;Riserva;90;30;Tuscany;Morellino di Scansano;Morisfarms
+10353;Italy;Ascheri;87;60;Piedmont;Barolo;Ellena
+10387;Italy;Lafòa;91;42;Northeastern Italy;Alto Adige;Colterenzio
+10403;Italy;Giovanelli;91;44;Northeastern Italy;Alto Adige;Kellerei Kaltern Caldaro
+10427;Italy;Sur Sur;91;19;Sicily & Sardinia;Sicilia;Donnafugata
+10455;Italy;Albatrello;85;18;Tuscany;Montecucco;Pieve Vecchia
+10465;Italy;Dulcamara;90;60;Tuscany;Toscana;I Giusti e Zanza
+10470;Italy;Rainero;90;51;Tuscany;Toscana;Castello di Meleto
+10471;Italy;Coevo;90;90;Tuscany;Toscana;Cecchi
+10538;Italy;Donnas;90;25;Northwestern Italy;Valle d'Aosta;Caves Cooperatives de Donnas
+10546;Italy;Beyond the Clouds;90;65;Northeastern Italy;Alto Adige;Elena Walch
+10547;Italy;Trattman Mazon Riserva;90;45;Northeastern Italy;Alto Adige;Girlan
+10549;Italy;Sergio Zenato Riserva;90;40;Lombardy;Lugana;Zenato
+10552;Italy;Gravello;89;30;Southern Italy;Val di Neto;Librandi
+10554;Italy;Schiava Gentile;89;17;Northeastern Italy;Alto Adige;Peter Zemmer
+10600;Italy;La Ferma;87;22;Piedmont;Langhe;Pasquale Pelissero
+10601;Italy;I Frati;91;20;Lombardy;Lugana;Cà dei Frati
+10628;Italy;Conchiglia;91;22;Lombardy;Lugana;Citari
+10631;Italy;Stemmari;87;10;Sicily & Sardinia;Sicilia;Feudo Arancio
+10632;Italy;Stemmari;87;9;Sicily & Sardinia;Sicilia;Feudo Arancio
+10635;Italy;Altavilla della Corte;87;15;Sicily & Sardinia;Sicilia;Firriato
+10642;Italy;Iselis;87;20;Sicily & Sardinia;Isola dei Nuraghi;Argiolas
+10643;Italy;Shymer;87;17;Sicily & Sardinia;Sicilia;Baglio di Pianetto
+10652;Italy;Angimbé;87;17;Sicily & Sardinia;Sicilia;Cusumano
+10671;Italy;Lapaccio;84;14;Southern Italy;Salento;Pasqua
+10683;Italy;Extra Dry;85;14;Veneto;Prosecco;Cantine Maschio
+10688;Italy;Brut;84;20;Veneto;Prosecco;Cavazza
+10689;Italy;Doro Nature;84;25;Veneto;Valdobbiadene Prosecco Superiore;Le Vigne di Alice
+10691;Italy;Extra Dry;84;13;Veneto;Prosecco;Nobilissima
+10694;Italy;Rive di Ogliano;84;25;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Baldi
+10698;Italy;Mirabello;84;11;Veneto;Prosecco;Adria Vini
+10702;Italy;Extra Dry;84;10;Veneto;Prosecco;Amore di Amanti
+10707;Italy;Prima Cuvée Extra Dry;84;18;Veneto;Valdobbiadene Prosecco Superiore;Bellenda
+10729;Italy;50th Anniversary Riserva;91;17;Southern Italy;Salice Salentino;Leone de Castris
+10732;Italy;Rocche dell'Annunziata;91;66;Piedmont;Barolo;Mario Gagliasso
+10743;Italy;Masseto;95;460;Tuscany;Toscana;Tenuta dell'Ornellaia
+10750;Italy;Marchesale;94;80;Tuscany;Toscana;Terre del Marchesato
+10753;Italy;Coevo;94;58;Tuscany;Toscana;Cecchi
+10754;Italy;Sapaio;94;80;Tuscany;Bolgheri Superiore;Podere Sapaio
+10757;Italy;Schidione;94;150;Tuscany;Toscana;Jacopo Biondi-Santi
+10758;Italy;Saffredi;94;130;Tuscany;Maremma;Fattoria Le Pupille
+10771;Italy;Extra Brut;90;25;Lombardy;Franciacorta;Cola
+10778;Italy;Extra Brut;90;67;Lombardy;Franciacorta;Ferghettina
+10782;Italy;Brut Emozione;90;37;Lombardy;Franciacorta;Villa
+10786;Italy;Millesimato Arcadia;90;42;Lombardy;Franciacorta;Lantieri de Paratico
+10793;Italy;Cuvée Annamaria Clementi;90;95;Lombardy;Franciacorta;Ca' del Bosco
+10794;Italy;Cuvée Prestige;90;40;Lombardy;Franciacorta;Ca' del Bosco
+10795;Italy;Riserva Castelgreve;90;30;Tuscany;Chianti Classico;Castelli del Grevepesa
+10800;Italy;Asili Riserva;85;112;Piedmont;Barbaresco;Ca' del Baio
+10812;Italy;Riserva;85;25;Piedmont;Barbaresco;Cantina Terre del Barolo
+10813;Italy;Colle del Gelso;85;50;Piedmont;Barbaresco;Cascina Saria
+10834;Italy;Tulin;90;69;Piedmont;Barbaresco;Pelissero
+10838;Italy;Vigna Giaia;90;42;Piedmont;Barbaresco;Pe're Alessandro
+10839;Italy;Pajoré;90;55;Piedmont;Barbaresco;Rizzi
+10840;Italy;La Rocca e la Pira Riserva;90;100;Piedmont;Barolo;Roagna
+10841;Italy;La Rocca e la Pira;90;60;Piedmont;Barolo;Roagna
+10842;Italy;Tufo Blu;90;30;Piedmont;Barbaresco;Colle dei Venti
+10844;Italy;Monvigliero;90;70;Piedmont;Barolo;Fratelli Alessandria
+10845;Italy;Serre;90;65;Piedmont;Barolo;Gianni Gagliardo
+10847;Italy;Vigna Cannubi;90;90;Piedmont;Barolo;Barale Fratelli
+10849;Italy;Vigna Cerretta;90;112;Piedmont;Barolo;Ca'Romè
+10855;Italy;Perlé;91;35;Northeastern Italy;Trento;Ferrari
+10856;Italy;Ambrosan;91;88;Veneto;Amarone della Valpolicella Classico;Nicolis
+10870;Italy;Flavio Riserva;91;35;Northeastern Italy;Trento;Rotari
+10879;Italy;Puer Apuliae;90;60;Southern Italy;Castel del Monte;Rivera
+10892;Italy;Percristina;90;120;Piedmont;Barolo;Domenico Clerico
+10908;Italy;Private;93;75;Veneto;Valdobbiadene Superiore di Cartizze;Bisol
+10910;Italy;Extra Brut Riserva Rosé;93;50;Northeastern Italy;Trento;Maso Martis
+10926;Italy;Rolat;93;30;Northeastern Italy;Collio;Raccaro
+10940;Italy;Riparosso;86;16;Central Italy;Montepulciano d'Abruzzo;Illuminati Dino
+10962;Italy;Basarin;86;40;Piedmont;Barbaresco;Arbéta
+10968;Italy;Riserva Famiglia Zingarelli;90;24;Tuscany;Chianti Classico;Rocca delle Macìe
+10980;Italy;Vigneto Edoardo;90;60;Central Italy;Montepulciano d'Abruzzo;Cantina Zaccagnini
+10981;Italy;Clemente VII Riserva;90;26;Tuscany;Chianti Classico;Castelli del Grevepesa
+10984;Italy;Don Antonio;90;41;Sicily & Sardinia;Sicilia;Morgante
+10985;Italy;Starderi;90;70;Piedmont;Barbaresco;Olek Bondonio
+10986;Italy;Marcarini;90;50;Piedmont;Barbaresco;Pertinace
+11000;Italy;Tufoblu;90;32;Piedmont;Barbaresco;Col dei Venti
+11004;Italy;Bordini;90;52;Piedmont;Barbaresco;Elvio Cogno
+11016;Italy;Pio II;87;16;Tuscany;Chianti;Tenuta Santo Pietro
+11022;Italy;Thurner;87;16;Northeastern Italy;Alto Adige;Colterenzio
+11027;Italy;Beyond the Clouds;87;65;Northeastern Italy;Alto Adige;Elena Walch
+11032;Italy;Dogajolo Rosso;86;14;Tuscany;Toscana;Carpineto
+11039;Italy;I Prandi;86;13;Veneto;Soave;Marcato
+11041;Italy;Tabbor Selezione;86;18;Northeastern Italy;Friuli Grave;Piera Martellozzo
+11044;Italy;Il Margone Gran Selezione;89;50;Tuscany;Chianti Classico;Il Molino di Grace
+11048;Italy;Squarcialupi Gran Selezione;89;48;Tuscany;Chianti Classico;La Castellina
+11051;Italy;Vigna Bastignano Gran Selezione;89;60;Tuscany;Chianti Classico;Villa Calcinaia
+11066;Italy;Cortevecchia Riserva;89;35;Tuscany;Chianti Classico;Principe Corsini
+11072;Italy;RS;89;15;Tuscany;Chianti Classico;Badia a Coltibuono
+11100;Italy;Summus;91;63;Tuscany;Sant'Antimo;Castello Banfi
+11114;Italy;Tufaie;87;15;Veneto;Soave Classico;Bolla
+11135;Italy;Sanct Valentin;89;38;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+11140;Italy;Kastelaz Riserva;89;46;Northeastern Italy;Alto Adige;Elena Walch
+11146;Italy;Poggiarelli;89;95;Tuscany;Brunello di Montalcino;La Mannella
+11158;Italy;Passion;89;42;Northeastern Italy;Alto Adige;St. Pauls
+11218;Italy;Bussia;88;52;Piedmont;Barolo;Silvano Bolmida
+11219;Italy;Principe;88;30;Tuscany;Cortona;Stefania Mezzetti
+11221;Italy;La Ladra;88;14;Piedmont;Barbera d'Asti Superiore;Tenute dei Vallarino
+11230;Italy;Amato;88;13;Tuscany;Cortona;Giannoni Fabbri
+11237;Italy;Bricco Rio Sordo;88;18;Piedmont;Barbera d'Alba;Musso
+11298;Italy;Dosage Zero;87;55;Lombardy;Franciacorta;Castello Bonomi
+11313;Italy;Rosé;87;25;Lombardy;Franciacorta;Contadi Castaldi
+11345;Italy;Ben Ryé;93;45;Sicily & Sardinia;Passito di Pantelleria;Donnafugata
+11377;Italy;Terre di Orazio Dry;87;18;Southern Italy;Basilicata;Cantina di Venosa
+11429;Italy;Sassella Riserva;91;33;Lombardy;Valtellina Superiore;Rainoldi
+11434;Italy;Le Difese;91;35;Tuscany;Toscana;Tenuta San Guido
+11461;Italy;Massimo Daldin;87;16;Tuscany;Vernaccia di San Gimignano;Cà del Vispo
+11463;Italy;Scirè;87;16;Tuscany;Bolgheri;Ceralti
+11478;Italy;Alata;87;20;Tuscany;Vernaccia di San Gimignano;Rampa di Fugnano
+11481;Italy;Pievi;87;19;Tuscany;Bolgheri;Motta
+11521;Italy;Scalabreto 500ml;86;32;Tuscany;Toscana;Morisfarms
+11540;Italy;Bricco Asili Bernardot;92;78;Piedmont;Barbaresco;Ceretto
+11544;Italy;Baudana;92;62;Piedmont;Barolo;Luigi Baudana
+11545;Italy;Riserva;92;84;Piedmont;Barolo;Marchesi di Barolo
+11546;Italy;Cannubi;92;100;Piedmont;Barolo;Marchesi di Barolo
+11548;Italy;Bricco Rocche Prapó;92;80;Piedmont;Barolo;Ceretto
+11553;Italy;Conca;92;88;Piedmont;Barolo;Renato Ratti
+11555;Italy;Gallina;92;48;Piedmont;Barbaresco;Ugo Lequio
+11579;Italy;Vecchia Modena Premium;91;16;Central Italy;Lambrusco di Sorbara;Cleto Chiarli
+11585;Italy;Taranta;83;18;Southern Italy;Salento;Vetrère
+11593;Italy;Querido Rosé Frizzante;83;18;Central Italy;Colli Piacentini;Tenuta Villa Tavernago
+11595;Italy;Fields Brut;83;12;Veneto;Prosecco;Pizzolato
+11596;Italy;La Luna Spago;83;17;Central Italy;Emilia;Cantine Ceci
+11599;Italy;Birbet;83;17;Piedmont;Piedmont;Demarie
+11607;Italy;Opera 02;83;17;Central Italy;Lambrusco di Modena;Cà Montanari
+11609;Italy;Amabile;83;11;Central Italy;Lambrusco di Sorbara;Cantina di Sorbara
+11652;Italy;Barilot;87;25;Piedmont;Barbera d'Alba;Manzone
+11658;Italy;Ceppitaio;87;25;Tuscany;Val di Cornia Suvereto;Russo
+11673;Italy;Casa Boschino;87;17;Tuscany;Toscana;San Fabiano Calcinaia
+11676;Italy;Acquagiusta;87;15;Tuscany;Toscana;Tenuta La Badiola
+11707;Italy;Rèserve della Contessa;90;22;Northeastern Italy;Alto Adige Terlano;Manincor
+11730;Italy;Vigne;90;24;Northeastern Italy;Collio;Zuani
+11751;Italy;Villa al Cortile;89;45;Tuscany;Brunello di Montalcino;Piccini
+11754;Italy;Ugolforte;89;50;Tuscany;Brunello di Montalcino;Tenuta San Giorgio
+11768;Italy;The Drunken Goose;84;11;Tuscany;Toscana;L'Oca Ciuca
+11776;Italy;Pettirosso;84;22;Tuscany;Toscana;Fonterenza
+11790;Italy;Gombe;87;19;Piedmont;Dogliani;La Fusina
+11794;Italy;Ciabot Camerano;87;19;Piedmont;Barbera d'Alba;Marcarini
+11820;Italy;La Voliera;88;10;Southern Italy;Puglia;Tenute Girolamo
+11834;Italy;Vigna del Gris;88;92;Piedmont;Barolo;Conterno Fantino
+11858;Italy;Uniku 500ml;84;26;Sicily & Sardinia;Sicilia;Terre di Giurfo
+11859;Italy;Passoro 500ml;84;23;Sicily & Sardinia;Sicilia;Maggio Vini
+11882;Italy;Aglianico del Re;90;25;Southern Italy;Irpinia;Feudi di San Gregorio
+11883;Italy;Dal Re;90;23;Southern Italy;Irpinia;Feudi di San Gregorio
+11904;Italy;Riserva;92;45;Tuscany;Chianti Classico;I Sodi
+11905;Italy;Gran Selezione;92;65;Tuscany;Chianti Classico;Lornano
+11918;Italy;Riserva;92;86;Tuscany;Brunello di Montalcino;Corte dei Venti
+11921;Italy;Riserva;92;72;Tuscany;Brunello di Montalcino;Donna Olga
+11923;Italy;Riserva;92;90;Tuscany;Brunello di Montalcino;Fattoria dei Barbi
+11924;Italy;Riserva;92;52;Tuscany;Brunello di Montalcino;Fattoria La Lecciaia
+11942;Italy;Dolcimèlo;85;12;Southern Italy;Martina;Miali
+11943;Italy;Lunalba;85;13;Southern Italy;Salento;Miali
+11963;Italy;Vigna Soccorso;91;45;Tuscany;Brunello di Montalcino;Tiezzi
+11965;Italy;Villa al Cortile Riserva;91;60;Tuscany;Brunello di Montalcino;Piccini
+11966;Italy;Don Tommaso;91;45;Tuscany;Chianti Classico;Principe Corsini Fattoria Le Corti
+11968;Italy;Riserva di Fizzano;91;38;Tuscany;Chianti Classico;Rocca delle Macìe
+11969;Italy;Ugolforte;91;60;Tuscany;Brunello di Montalcino;Tenuta San Giorgio
+11970;Italy;Bellezza;91;35;Tuscany;Toscana;Castello di Gabbiano
+12003;Italy;Il Bosco;92;70;Veneto;Amarone della Valpolicella Classico;Cesari
+12009;Italy;Riserva di Costasera;92;75;Veneto;Amarone della Valpolicella Classico;Masi
+12012;Italy;Monte Fante Riserva;92;90;Veneto;Amarone della Valpolicella Classico;Remo Farina
+12019;Italy;Feudo;92;38;Sicily & Sardinia;Etna;Girolamo Russo
+12025;Italy;Torre Pieve;92;37;Veneto;Veneto;Tenuta Santa Maria alla Pieve
+12033;Italy;Riserva;90;24;Piedmont;Barbaresco;Cantina del Nebbiolo
+12034;Italy;Rapet;90;103;Piedmont;Barolo;Ca'Romè
+12081;Italy;Integolo;86;18;Tuscany;Toscana;Sada
+12098;Italy;Il Guado;86;23;Tuscany;Bolgheri;Poggio alle Querce
+12117;Italy;Toc Bas;90;25;Northeastern Italy;Friuli Isonzo;Ronco del Gelso
+12122;Italy;Limne;90;18;Lombardy;Lugana;Tenuta Roveglia
+12167;Italy;Gran Selezione;91;45;Tuscany;Chianti Classico;Casa Sola
+12198;Italy;Poderuccio;86;22;Tuscany;Vino Nobile di Montepulciano;Tenuta Santavenere
+12205;Italy;Roggiano;86;15;Tuscany;Morellino di Scansano;Vignaioli del Morellino di Scansano
+12210;Italy;Sanice;86;21;Tuscany;Vernaccia di San Gimignano;Cesani
+12229;Italy;Rosso del Conte;91;40;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+12243;Italy;Cygnus;90;21;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+12244;Italy;Nozze d'Oro;90;23;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+12245;Italy;Rose di Regaleali;90;11;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+12247;Italy;Extra Dry;90;11;Veneto;Prosecco di Conegliano;Canella
+12284;Italy;Santo Stefano;94;58;Piedmont;Barbaresco;Castello di Neive
+12291;Italy;Cannubi San Lorenzo Ravera;94;95;Piedmont;Barolo;Giuseppe Rinaldi
+12295;Italy;Nei Cannubi;94;100;Piedmont;Barolo;Poderi Luigi Einaudi
+12298;Italy;Bricco Rocche Brunate;94;88;Piedmont;Barolo;Ceretto
+12300;Italy;Vigna Marenca;94;65;Piedmont;Barolo;Luigi Pira
+12303;Italy;Montersino;94;45;Piedmont;Barbaresco;Orlando Abrigo
+12310;Italy;Prior Brut;87;18;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Bortolomiol
+12322;Italy;Cuvée di Boj;87;15;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Valdo
+12323;Italy;Oris Cuvée Dry;87;19;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Villa Sandi
+12334;Italy;Campanaro;88;34;Southern Italy;Irpinia;Feudi di San Gregorio
+12337;Italy;Anthologia;88;30;Southern Italy;Falerno del Massico;Masseria Felicia
+12346;Italy;Acquavigna;88;24;Southern Italy;Terre del Volturno;Selvanova
+12387;Italy;Castel Giovanelli;87;50;Northeastern Italy;Alto Adige;Kellerei Kaltern Caldaro
+12393;Italy;Vigne di Sande;87;13;Veneto;Soave;Villa Canestrari
+12397;Italy;Carniga;87;18;Veneto;Soave Classico;Cantina del Castello
+12398;Italy;Aristos;87;18;Northeastern Italy;Alto Adige Valle Isarco;Cantina Valle Isarco
+12403;Italy;Thurner;87;16;Northeastern Italy;Alto Adige;Colterenzio
+12408;Italy;Beyond the Clouds;87;65;Northeastern Italy;Alto Adige;Elena Walch
+12412;Italy;Colli Scaligeri;87;22;Veneto;Soave Colli Scaligeri;Sandro de Bruno
+12443;Italy;Gricos;87;11;Southern Italy;Aglianico del Vulture;Lucania
+12445;Italy;Marsillo;87;17;Piedmont;Moscato d'Asti;Marco Negri
+12456;Italy;Brut Metodo Tradizionale Classico;84;24;Piedmont;Piedmont;Banfi
+12457;Italy;Spanna Riserva;84;17;Piedmont;Colline Novaresi;Dessilani
+12485;Italy;Antale;86;13;Sicily & Sardinia;Sicilia;Natale Verga
+12486;Italy;Gran Tiati Gold Vintage;86;35;Southern Italy;Puglia;Teanum
+12493;Italy;Sallier de la Tour;86;13;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+12505;Italy;I Versi;86;8;Sicily & Sardinia;Sicilia;Fondo Antico
+12512;Italy;Naisi;86;22;Sicily & Sardinia;Sicilia;Brugnano
+12514;Italy;Aquilae;86;12;Sicily & Sardinia;Sicilia;Viticultori Associati Canicatti
+12515;Italy;Vigna di Pettine;86;16;Sicily & Sardinia;Cerasuolo di Vittoria;Maggiovini
+12521;Italy;Tre Torri;86;13;Sicily & Sardinia;Carignano del Sulcis;Cantina Santadi
+12526;Italy;Saia Grande;86;22;Sicily & Sardinia;Sicilia;Maurigi
+12527;Italy;Terrae Dei;86;14;Sicily & Sardinia;Sicilia;Corvo
+12528;Italy;Chianta;88;50;Sicily & Sardinia;Etna;Biondi
+12531;Italy;Centuno;88;14;Sicily & Sardinia;Sicilia;Canicattì
+12539;Italy;Cantodoro;88;13;Sicily & Sardinia;Terre Siciliane;Stemmari
+12556;Italy;Puritani Rosso;88;40;Sicily & Sardinia;Etna;Valenti
+12559;Italy;Il Giglio;87;10;Sicily & Sardinia;Sicilia;Masseria del Feudo
+12567;Italy;Tané;87;50;Sicily & Sardinia;Sicilia;Valle dell'Acate
+12583;Italy;Lorlando;87;30;Sicily & Sardinia;Terre Siciliane;Alliata
+12591;Italy;Poggio dei Vigneti;86;15;Piedmont;Gavi;Natale Verga
+12599;Italy;La Cala;86;12;Sicily & Sardinia;Vermentino di Sardegna;Sella & Mosca
+12608;Italy;San Boldo Brut;86;16;Veneto;Conegliano Valdobbiadene Prosecco Superiore;Marsuret
+12612;Italy;Ceregio;86;15;Central Italy;Sangiovese di Romagna Superiore;Fattoria Zerbina
+12632;Italy;Convento S.S. Annunciata;88;61;Lombardy;Terre di Franciacorta;Bellavista
+12633;Italy;Cavalé;88;26;Piedmont;Barbera d'Asti Superiore;Cantine Sant'Agata
+12661;Italy;Sur Sur;90;20;Sicily & Sardinia;Sicilia;Donnafugata
+12665;Italy;Bràtinis;90;20;Northeastern Italy;Collio;Gradis'ciutta
+12721;Italy;Saltner;88;28;Northeastern Italy;Alto Adige;Caldaro
+12724;Italy;Riserva;88;33;Northeastern Italy;Alto Adige;Castel Sallegg
+12725;Italy;Extreme Metodo Classico;88;28;Northwestern Italy;Valle d'Aosta;Cave du Vin Blanc de Morgex et de la Salle
+12726;Italy;Vini Estremi Blanc de Morgex e de La Salle;88;22;Northwestern Italy;Valle d'Aosta;Cave du Vin Blanc de Morgex et de la Salle
+12733;Italy;Lis;88;43;Northeastern Italy;Venezia Giulia;Lis Neris
+12736;Italy;Rieser St. Magdalener;88;19;Northeastern Italy;Alto Adige;Nals Margreid
+12739;Italy;Rollhütt;88;19;Northeastern Italy;Alto Adige;Peter Zemmer
+12747;Italy;Le Lodole;85;21;Tuscany;Rosso di Toscana;Bellini
+12764;Italy;Borgeri;85;30;Tuscany;Bolgheri;Giorgio Meletti Cavallari
+12766;Italy;Squarcialupi Riserva;85;30;Tuscany;Chianti Classico;La Castellina
+12774;Italy;Brut;90;24;Northeastern Italy;Trento;Ferrari
+12775;Italy;Rosé;90;30;Northeastern Italy;Trento;Ferrari
+12786;Italy;Brut Rosé;90;29;Lombardy;Franciacorta;Montenisa
+12787;Italy;Brut;90;25;Lombardy;Franciacorta;Montenisa
+12797;Italy;Bellamarsilia;88;18;Tuscany;Morellino di Scansano;Poggio Argentiera
+12812;Italy;Trabocchetto;88;19;Central Italy;Colline Pescaresi;Talamonti
+12816;Italy;Emilio Primo;88;20;Tuscany;Toscana;Terre del Marchesato
+12822;Italy;Tre Quarti Riserva;88;30;Tuscany;Morellino di Scansano;Colle Spinello
+12826;Italy;Riserva;88;15;Tuscany;Chianti Classico;Castello di Gabbiano
+12828;Italy;Campopazzo Riserva;88;27;Tuscany;Chianti Classico;Castello di Monterinaldi
+12829;Italy;Riserva;88;29;Tuscany;Chianti Classico;Castello di Monterinaldi
+12838;Italy;Monsenese Riserva;88;34;Tuscany;Chianti Classico;San Leonino
+12849;Italy;Riserva;88;40;Tuscany;Chianti Classico;Brancaia
+12851;Italy;Vigna Casi;88;43;Tuscany;Chianti Classico;Castello di Meleto
+12859;Italy;Hekate Passito;91;30;Sicily & Sardinia;Sicilia;Feudo Arancio
+12870;Italy;Solamini et Amicis Passito;91;65;Veneto;Veneto;Moletto
+12877;Italy;Privilegio;91;35;Southern Italy;Campania;Feudi di San Gregorio
+12882;Italy;Syre;91;50;Sicily & Sardinia;Sicilia;COS
+12883;Italy;Sàgana;91;35;Sicily & Sardinia;Sicilia;Cusumano
+12887;Italy;Quater;91;32;Sicily & Sardinia;Sicilia;Firriato
+12888;Italy;Munjebel 7;91;50;Sicily & Sardinia;Etna;Frank Cornelissen
+12900;Italy;Burdese;91;42;Sicily & Sardinia;Sicilia;Planeta
+12935;Italy;I Progni;90;36;Veneto;Valpolicella Classico Superiore Ripasso;Le Salette
+12937;Italy;Vigneto Punta di Villa;90;60;Veneto;Amarone della Valpolicella Classico;Mazzi
+12957;Italy;Tignanello;94;105;Tuscany;Toscana;Marchesi Antinori
+12984;Italy;Matervitae;84;10;Southern Italy;Puglia;Torrevento
+12987;Italy;Santufili;84;62;Southern Italy;Salento;Mocavero
+12996;Italy;Puteus Riserva;83;45;Southern Italy;Salice Salentino;Mocavero
+13035;Italy;Riserva CampoRe;92;70;Southern Italy;Taurasi;Terredora
+13065;Italy;Vigneto Rive Alte Extra Dry;90;16;Veneto;Valdobbiadene Prosecco Superiore;Mongarda
+13093;Italy;Rabajà;89;26;Piedmont;Barbaresco;Cascina Luisin
+13099;Italy;Rio Sordo Riserva;89;70;Piedmont;Barbaresco;Produttori del Barbaresco
+13109;Italy;Sotto Castello di Novello Riserva;89;50;Piedmont;Barolo;Piazzo Armando
+13111;Italy;Nervo Fondetta;89;49;Piedmont;Barbaresco;Rizzi
+13164;Italy;Campo Santa Lena;83;15;Veneto;Valpolicella Classico;Villa Monteleone
+13200;Italy;Simboli;86;13;Northeastern Italy;Trentino;La Vis
+13209;Italy;Montefoscarino;86;13;Veneto;Soave Classico;Santa Sofia
+13264;Italy;Torriglione;89;60;Piedmont;Barolo;Mario Gagliasso
+13280;Italy;Bordini;89;62;Piedmont;Barbaresco;Fontanabianca
+13287;Italy;Bugialla Riserva;90;45;Tuscany;Chianti Classico;Fattoria Poggerino
+13289;Italy;Agostino Petri Riserva;90;20;Tuscany;Chianti Classico;Castello Vicchiomaggio
+13295;Italy;Famiglia Zingarelli;90;15;Tuscany;Chianti Classico;Rocca delle Macìe
+13299;Italy;Darno;90;38;Tuscany;Chianti Colli Fiorentini;Tenuta San Vito
+13301;Italy;Riserva;90;27;Tuscany;Chianti Classico;Toscolo
+13310;Italy;Grandi Annate;90;60;Tuscany;Vino Nobile di Montepulciano;Avignonesi
+13312;Italy;Atis;90;70;Tuscany;Toscana;Guado al Melo
+13322;Italy;Brut Rosé Metodo Classico;90;22;Italy Other;Vino Spumante;Murgo
+13323;Italy;Grumello Riserva;90;34;Lombardy;Valtellina Superiore;Nera
+13324;Italy;Sfursat Carlo Negri;90;51;Lombardy;Sforzato di Valtellina;Nino Negri
+13330;Italy;Grumello Riserva;90;48;Lombardy;Valtellina Superiore;Rainoldi
+13335;Italy;Coronato;90;47;Tuscany;Toscana;Tenuta dei Pianali
+13365;Italy;Cè Vanin;92;41;Piedmont;Barbaresco;Rivetto
+13370;Italy;Bussia;92;75;Piedmont;Barolo;Tenuta Rocca
+13384;Italy;Muncagota Riserva;92;58;Piedmont;Barbaresco;Produttori del Barbaresco
+13390;Italy;Gallina;92;45;Piedmont;Barbaresco;Ugo Lequio
+13403;Italy;Capitel dei Nicalò;86;20;Veneto;Valpolicella Classico Superiore;Tedeschi
+13404;Italy;Corte Majoli;86;16;Veneto;Valpolicella Superiore Ripasso;Tezza
+13422;Italy;Villa Donoratico;90;25;Tuscany;Bolgheri;Tenuta Argentiera
+13427;Italy;Palpito;90;14;Tuscany;Sant'Antimo;La Colombina
+13448;Italy;White Lable;90;35;Tuscany;Colli della Toscana Centrale;I Balzini
+13451;Italy;Ugolino;90;60;Central Italy;Sagrantino di Montefalco;Terre de Trinci
+13460;Italy;Arborina;93;49;Piedmont;Barolo;Mauro Veglio
+13469;Italy;Feudo di Mezzo Il Quadro delle Rose;93;40;Sicily & Sardinia;Etna;Tenuta delle Terre Nere
+13470;Italy;Santo Spirito;93;40;Sicily & Sardinia;Etna;Tenuta delle Terre Nere
+13474;Italy;Conca;93;80;Piedmont;Barolo;Renato Ratti
+13475;Italy;Cirneco;93;45;Sicily & Sardinia;Etna;Terrazze dell'Etna
+13489;Italy;Allegracore;93;28;Sicily & Sardinia;Etna;Fattorie Romeo del Castello
+13504;Italy;Regaleali;85;10;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+13505;Italy;Sallier de la Tour;85;11;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+13513;Italy;Rasula;85;12;Sicily & Sardinia;Sicilia;Maggiovini
+13514;Italy;Coste all'Ombra;85;24;Sicily & Sardinia;Sicilia;Maurigi
+13529;Italy;Riserva;92;60;Southern Italy;Taurasi;Donnachiara
+13540;Italy;Gudarrà Riserva;92;45;Southern Italy;Aglianico del Vulture;Bisceglia
+13541;Italy;La Firma;92;45;Southern Italy;Aglianico del Vulture;Cantine del Notaio
+13573;Italy;Eremo San Quirico;87;50;Southern Italy;Irpinia;Nativ
+13577;Italy;Passiata;87;13;Sicily & Sardinia;Terre Siciliane;Stemmari
+13581;Italy;Madrigale Dolce Naturale;87;12;Southern Italy;Primitivo di Manduria;Produttori Vini Manduria
+13592;Italy;Molino a Vento;87;10;Sicily & Sardinia;Terre Siciliane;Tenute Orestiadi
+13598;Italy;Tenuta Ibidini;87;15;Sicily & Sardinia;Sicilia;Valle dell'Acate
+13602;Italy;Terra di Vulcano;87;13;Southern Italy;Aglianico del Vulture;Bisceglia
+13611;Italy;Nummaria;84;14;Central Italy;Rosso Piceno Superiore;La Canosa
+13617;Italy;Lailum;84;22;Central Italy;Rosso Piceno;Fattoria Laila
+13624;Italy;Raffa;84;18;Central Italy;Offida Passerina;Clara Marcelli
+13628;Italy;Col Fondo;91;15;Northeastern Italy;Colli Trevigiani;Mongarda
+13629;Italy;Le Sponde;91;43;Veneto;Recioto di Soave Classico;Coffele
+13657;Italy;Zeta Dry;86;17;Veneto;Prosecco di Conegliano;Zardetto
+13659;Italy;Lunetta;86;11;Italy Other;Italy;Cavit
+13674;Italy;Brut;86;13;Veneto;Prosecco di Conegliano e Valdobbiadene;Carmina
+13675;Italy;Extra Dry;86;13;Veneto;Prosecco di Conegliano e Valdobbiadene;Carmina
+13677;Italy;Hi!;86;13;Veneto;Prosecco di Valdobbiadene;La Riva dei Frati
+13678;Italy;Cruner Dry;86;17;Veneto;Prosecco di Conegliano e Valdobbiadene;Le Colture
+13699;Italy;Casal di Serra Vecchie Vigne;90;35;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Umani Ronchi
+13715;Italy;Villa Bucci Rosso;90;65;Central Italy;Rosso Piceno;Bucci
+13721;Italy;Federico II A.D. 1194;90;26;Central Italy;Verdicchio dei Castelli di Jesi Classico Superiore;Montecappone
+13757;Italy;Caleido;83;16;Southern Italy;Salento;Jorche
+13762;Italy;Marangi;83;16;Southern Italy;Salento;Tenute Mater Domini
+13773;Italy;Marangi;82;16;Southern Italy;Salento;Tenute Mater Domini
+13814;Italy;Riserva;85;12;Southern Italy;Salice Salentino;Leone de Castris
+13816;Italy;Zuc di Volpe;85;38;Northeastern Italy;Colli Orientali del Friuli;Volpe Pasini
+13821;Italy;Riserva;84;26;Tuscany;Chianti Classico;Villa Cerna
+13828;Italy;Modello delle Venezie Rosato;84;10;Northeastern Italy;Venezie;Masi
+13843;Italy;San Lorenzo;86;90;Piedmont;Barolo;Cavalier Bartolomeo
+13849;Italy;Il Bergantino;86;36;Piedmont;Barbera d'Asti;Bricco Mondalino
+13869;Italy;'Na Vota;85;18;Piedmont;Ruché di Castagnole Monferrato;Cantine Sant'Agata
+13871;Italy;Baby;85;10;Piedmont;Barbera d'Asti;Cantine Sant'Agata
+13872;Italy;U Munte;85;9;Northwestern Italy;Riviera Ligure di Ponente;Colle dei Bardellini
+13889;Italy;White Label;84;23;Piedmont;Gavi;La Scolca
+13948;Italy;Barbazzale Bianco;87;15;Sicily & Sardinia;Sicilia;Cottanera
+13952;Italy;Gerbino Bianco;87;15;Sicily & Sardinia;Terre Siciliane;Di Giovanna
+13956;Italy;Lighea;87;23;Sicily & Sardinia;Terre Siciliane;Donnafugata
+13957;Italy;Calanica Frappato & Syrah;87;16;Sicily & Sardinia;Terre Siciliane;Duca di Salaparuta
+13958;Italy;Calanica;87;15;Sicily & Sardinia;Terre Siciliane;Duca di Salaparuta
+13967;Italy;Frupa;87;32;Southern Italy;Pompeiano;Sorrentino
+13968;Italy;Alhambra;87;16;Sicily & Sardinia;Terre Siciliane;Spadafora
+13972;Italy;Pignanera;87;55;Southern Italy;Epomeo;Tommasone
+13973;Italy;Cecubo;87;37;Southern Italy;Roccamonfina;Villa Matilde
+14016;Italy;Basarin;88;55;Piedmont;Barbaresco;Moccagatta
+14024;Italy;Monserra;88;65;Piedmont;Barolo;Raineri Gianmatteo
+14025;Italy;Riserva Pajana;88;135;Piedmont;Barolo;Renzo Seghesio
+14041;Italy;I Corsi;87;30;Veneto;Valpolicella Classico Superiore Ripasso;Le Marognole
+14042;Italy;Pergole Vece;87;142;Veneto;Amarone della Valpolicella Classico;Le Salette
+14044;Italy;Postera;87;40;Veneto;Amarone della Valpolicella Classico;Manara
+14045;Italy;Famiglia Pasqua;87;19;Veneto;Valpolicella Superiore Ripasso;Pasqua
+14046;Italy;Le Muraie;87;19;Veneto;Valpolicella Classico Superiore Ripasso;Recchia
+14061;Italy;Sergio Zenato;87;35;Lombardy;Lugana;Zenato
+14116;Italy;Margheria;92;95;Piedmont;Barolo;Azelia
+14147;Italy;Core;87;25;Southern Italy;Colli di Salerno;Montevetrano
+14160;Italy;Albeggio;86;15;Tuscany;Toscana;Fattoria Lavacchio
+14174;Italy;Cantalici Petali di Rosé;86;14;Tuscany;Toscana;L'Antica Fornace di Ridolfo
+14191;Italy;Tebavio;90;60;Piedmont;Barolo;Tenuta L'Illuminata
+14196;Italy;Riserva;90;40;Piedmont;Barbaresco;Bera
+14218;Italy;Sud;88;15;Southern Italy;Salice Salentino;Feudi di San Marzano
+14219;Italy;Sud;88;15;Southern Italy;Salento;Feudi di San Marzano
+14220;Italy;Dalila;88;16;Sicily & Sardinia;Sicilia;Feudo Arancio
+14228;Italy;Chimera;88;30;Sicily & Sardinia;Vermentino di Sardegna;Tenute Soletta
+14229;Italy;Kyanos;88;32;Sicily & Sardinia;Isola dei Nuraghi;Tenute Soletta
+14246;Italy;Angimbé;88;17;Sicily & Sardinia;Sicilia;Cusumano
+14247;Italy;Sedàra;88;15;Sicily & Sardinia;Sicilia;Donnafugata
+14254;Italy;Primo Bianco;86;18;Sicily & Sardinia;Vermentino di Sardegna;Mesa
+14261;Italy;Case Ibidini;86;15;Sicily & Sardinia;Sicilia;Valle dell'Acate
+14262;Italy;Le Pitre;86;29;Southern Italy;Salento;Villa Mottura
+14293;Italy;Pian di Nova;86;24;Tuscany;Toscana;Il Borro
+14305;Italy;Amabile;86;12;Central Italy;Orvieto Classico;Bigi
+14309;Italy;Pietra Rossa;92;49;Tuscany;Vino Nobile di Montepulciano;Contucci
+14316;Italy;Indaco;92;50;Tuscany;Toscana;Tenuta Sette Cieli
+14336;Italy;Il Saggio Riserva;92;50;Tuscany;Vino Nobile di Montepulciano;Antico Colle
+14358;Italy;Altero;94;115;Tuscany;Brunello di Montalcino;Poggio Antico
+14373;Italy;Vieris;89;47;Northeastern Italy;Friuli Isonzo;Vie di Romans
+14399;Italy;Spumante Dolce;84;17;Piedmont;Brachetto d'Acqui;Duchessa Lia
+14444;Italy;Sophie;91;35;Northeastern Italy;Alto Adige;Manincor
+14464;Italy;Classica;91;85;Northeastern Italy;Venezia Giulia;Vodopivec
+14502;Italy;Black Label;88;30;Veneto;Amarone della Valpolicella;Pasqua
+14577;Italy;Erminia De Meo;89;88;Southern Italy;Fiano di Avellino;Di Meo
+14578;Italy;G;89;27;Southern Italy;Greco di Tufo;Di Meo
+14583;Italy;Keramos Riserva;89;49;Sicily & Sardinia;Cannonau di Sardegna;Tenute Soletta
+14584;Italy;Bianco;89;28;Sicily & Sardinia;Etna;Tornatore
+14587;Italy;Cole;94;75;Piedmont;Barbaresco;Moccagatta
+14600;Italy;Fausoni;94;64;Piedmont;Barbaresco;Sottimano
+14607;Italy;Bric Balin;93;60;Piedmont;Barbaresco;Moccagatta
+14611;Italy;Gran Selezione;91;40;Tuscany;Chianti Classico;Tenuta di Lilliano
+14630;Italy;Ottantuno Gran Selezione;90;55;Tuscany;Chianti Classico;Luiano
+14633;Italy;Farnito;90;35;Tuscany;Toscana;Carpineto
+14641;Italy;Donia;86;18;Piedmont;Barbera d'Alba;Ponchione Maurizio
+14649;Italy;L'Avvocata;86;16;Piedmont;Barbera d'Asti;Coppo
+14651;Italy;Brut;86;11;Veneto;Prosecco;Gancia
+14655;Italy;Lavignone;86;13;Piedmont;Barbera d'Asti;Pico Maccario
+14679;Italy;Campanaro;92;33;Southern Italy;Irpinia;Feudi di San Gregorio
+14681;Italy;Don Generoso;92;120;Southern Italy;Irpinia;Di Meo
+14685;Italy;Montevetrano;92;80;Southern Italy;Campania;Montevetrano
+14687;Italy;Basilisco;92;42;Southern Italy;Aglianico del Vulture;Basilisco
+14694;Italy;Opera Mia;89;40;Southern Italy;Taurasi;Tenuta Cavalier Pepe
+14778;Italy;Castel Ringberg;91;28;Northeastern Italy;Alto Adige;Elena Walch
+14793;Italy;Passion;91;40;Northeastern Italy;Alto Adige;St. Pauls
+14794;Italy;p. 56;91;80;Tuscany;Brunello di Montalcino;Tenuta Buon Tempo
+14796;Italy;Porphyr Riserva;91;70;Northeastern Italy;Alto Adige;Terlan
+14799;Italy;Feldmarschall;91;40;Northeastern Italy;Alto Adige;Tiefenbrunner
+14855;Italy;Arcurìa Bianco;90;40;Sicily & Sardinia;Etna;Graci
+14858;Italy;Salisire Bianco;90;28;Sicily & Sardinia;Etna;Vivera
+14859;Italy;Elisena;90;32;Sicily & Sardinia;Terre Siciliane;Wiegner
+14872;Italy;Salina;89;20;Sicily & Sardinia;Terre Siciliane;Hauner
+14876;Italy;Terza Vendemmia;89;50;Sicily & Sardinia;Sicilia;Tascante
+14877;Italy;Guardiola Rosso;89;40;Sicily & Sardinia;Etna;Tenuta delle Terre Nere
+14878;Italy;Carusu Rosso;89;25;Sicily & Sardinia;Etna;Terrazze dell'Etna
+14888;Italy;Neroametà;87;30;Southern Italy;Campania;Mastroberardino
+14893;Italy;Bio;87;25;Lombardy;Lugana;Perla del Garda
+14894;Italy;Perla;87;21;Lombardy;Lugana;Perla del Garda
+14899;Italy;Vigne del Brà;87;28;Veneto;Soave Colli Scaligeri;Filippi
+14916;Italy;500ml;87;51;Sicily & Sardinia;Passito di Pantelleria;Colosi
+14931;Italy;500ml;86;35;Tuscany;Moscadello di Montalcino;Mocali
+14949;Italy;Franciscus;91;27;Southern Italy;Greco di Tufo;Cantine di Marzo
+14973;Italy;Plavis;88;35;Veneto;Veneto;De Stefani
+14981;Italy;Solèr;88;37;Veneto;Veneto;De Stefani
+15030;Italy;Riserva Le More;88;30;Southern Italy;Castel del Monte;Santa Lucia
+15036;Italy;Casale Vecchio;88;18;Central Italy;Montepulciano d'Abruzzo;Farnese
+15041;Italy;Mekan;88;17;Southern Italy;Molise;Cantine Cipressi
+15066;Italy;Hermes;89;38;Sicily & Sardinia;Isola dei Nuraghi;Tenute Soletta
+15079;Italy;Premium Vecchia Modena;84;15;Central Italy;Lambrusco di Sorbara;Cleto Chiarli
+15081;Italy;Classic Line;84;11;Veneto;Veneto;Domenico Cavazza
+15086;Italy;Brut;84;15;Veneto;Veneto;Pizzolato
+15088;Italy;Sara Bee;84;6;Southern Italy;Puglia;Santero
+15090;Italy;Opera 02 Amabile;84;17;Central Italy;Lambrusco di Modena;Cà Montanari
+15091;Italy;Operapura;84;19;Central Italy;Lambrusco Grasparossa di Castelvetro;Cà Montanari
+15096;Italy;Extra Dry;84;15;Veneto;Prosecco;Enza
+15102;Italy;Taranta;83;18;Southern Italy;Salento;Vetrère
+15107;Italy;Capitel de' Roari;87;30;Veneto;Amarone della Valpolicella Classico;Luigi Righetti
+15133;Italy;Vigna Machia dei Goti;93;46;Southern Italy;Taurasi;Antonio Caggiano
+15138;Italy;Riserva;93;55;Southern Italy;Taurasi;Donnachiara
+15141;Italy;Elzana Riserva;93;26;Tuscany;Carmignano;Fattoria Ambra
+15144;Italy;Ben Ryé;93;39;Sicily & Sardinia;Passito di Pantelleria;Donnafugata
+15156;Italy;Vigna ai Sassi Riserva;93;23;Tuscany;Vernaccia di San Gimignano;Tenuta Le Calcinaie
+15157;Italy;Lequilibrio;87;28;Piedmont;Barbera d'Asti;Montalbera
+15158;Italy;La Tradizione;87;22;Piedmont;Ruché di Castagnole Monferrato;Montalbera
+15162;Italy;Rabajà;87;55;Piedmont;Barbaresco;Giuseppe Cortese
+15163;Italy;Brut;87;30;Piedmont;Piedmont;Villa Sparina
+15178;Italy;Bricco Faset;87;37;Piedmont;Barbaresco;La Spinona
+15180;Italy;Alto Fhrà;87;16;Piedmont;Monferrato;Forti del Vento
+15184;Italy;D'Alceo;95;260;Tuscany;Toscana;Castello dei Rampolla
+15191;Italy;Riserva;95;144;Tuscany;Brunello di Montalcino;Il Paradiso di Manfredi
+15203;Italy;Coltassala Riserva;94;69;Tuscany;Chianti Classico;Volpaia
+15213;Italy;Black Label;87;15;Veneto;Valpolicella Superiore Ripasso;Pasqua
+15217;Italy;Grotta del Ninfeo;87;27;Veneto;Valpolicella Superiore Ripasso;Domenico Fraccaroli
+15222;Italy;Le Muraie;87;19;Veneto;Valpolicella Classico Superiore Ripasso;Recchia
+15230;Italy;Le Volpare;87;13;Veneto;Soave Classico;Tommasi
+15246;Italy;Monfalletto;93;48;Piedmont;Barolo;Cordero di Montezemolo
+15297;Italy;Per Sempre;90;300;Tuscany;Toscana;Tua Rita
+15298;Italy;Perlato del Bosco;90;28;Tuscany;Toscana;Tua Rita
+15304;Italy;Podere Le Maragnole;89;45;Veneto;Amarone della Valpolicella Classico;Le Bertarole
+15305;Italy;Blanc de Noir Brut;89;42;Lombardy;Franciacorta;Majolini
+15308;Italy;Le Balze;89;100;Veneto;Amarone della Valpolicella Classico;Novaia
+15317;Italy;Rosé;89;13;Northeastern Italy;Trento;Rotari
+15323;Italy;Mazzurega;89;80;Veneto;Amarone della Valpolicella Classico;Domìni Veneti
+15328;Italy;Leon Metodo Classico;89;45;Italy Other;Vino Spumante;Masari
+15349;Italy;Durello and Chardonnay;84;20;Northeastern Italy;Venezie;Duca del Frassino
+15368;Italy;Prapò;86;60;Piedmont;Barolo;Mauro Sebaste
+15394;Italy;Cala de' Poeti;85;12;Tuscany;Morellino di Scansano;Castellani
+15396;Italy;Ciarlone;85;13;Tuscany;Montecucco;Impostino
+15400;Italy;la Murata;85;18;Tuscany;Toscana;Fattoria Il Muro
+15404;Italy;Vigna delle Raunate;85;48;Tuscany;Brunello di Montalcino;Mocali
+15412;Italy;Voltaccia 49;85;25;Tuscany;Toscana;Poggio al Chiuso
+15414;Italy;Lui;85;30;Tuscany;Toscana;Luiano
+15423;Italy;Gaso;90;64;Veneto;Amarone della Valpolicella Classico;San Rustico
+15443;Italy;Serego Alighieri Vaio Armaron;90;75;Veneto;Amarone della Valpolicella Classico;Masi
+15446;Italy;Famiglia Pasqua;90;40;Veneto;Amarone della Valpolicella;Pasqua
+15523;Italy;Corte Vaona;93;70;Veneto;Amarone della Valpolicella Classico;Novaia
+15538;Italy;Klin;89;35;Northeastern Italy;Collio;Primosic
+15552;Italy;Riserva;94;45;Piedmont;Gattinara;Travaglini
+15563;Italy;Ravera;94;70;Piedmont;Barolo;Sordo
+15566;Italy;Cannubi;94;165;Piedmont;Barolo;Borgogno
+15571;Italy;Ser Lapo Riserva;92;30;Tuscany;Chianti Classico;Castello di Fonterutoli
+15579;Italy;Damo;92;65;Tuscany;Vino Nobile di Montepulciano;Montemercurio
+15594;Italy;Berardenga;92;26;Tuscany;Chianti Classico;Felsina
+15613;Italy;Picolit;95;100;Northeastern Italy;Colli Orientali del Friuli;Livio Felluga
+15624;Italy;Capitel Monte Olmi;92;99;Veneto;Amarone della Valpolicella Classico;Tedeschi
+15639;Italy;Estate Collection;92;40;Veneto;Amarone della Valpolicella;Sartori
+15644;Italy;Campolongo di Torbe;92;165;Veneto;Amarone della Valpolicella Classico;Masi
+15645;Italy;Corte Vaona;92;65;Veneto;Amarone della Valpolicella Classico;Novaia
+15715;Italy;Basarin;88;38;Piedmont;Barbaresco;Adriano Marco & Vittorio
+15755;Italy;Donna Lisa Rosso;88;16;Southern Italy;Salice Salentino;Leone de Castris
+15756;Italy;Gravello;88;33;Southern Italy;Val di Neto;Librandi
+15757;Italy;Archimede Eloro;88;40;Sicily & Sardinia;Sicilia;Marabino
+15763;Italy;La Corte Solyss;88;15;Southern Italy;Puglia;La Corte
+15765;Italy;Bidis;88;35;Sicily & Sardinia;Sicilia;Valle dell'Acate
+15771;Italy;Chiaramonte;88;16;Sicily & Sardinia;Sicilia;Firriato
+15790;Italy;Alimata;94;35;Southern Italy;Fiano di Avellino;Villa Raiano
+15831;Italy;Montosoli;97;125;Tuscany;Brunello di Montalcino;Altesino
+15864;Italy;Salvarenza Vecchie Vigne;90;38;Veneto;Soave Classico;Gini
+15866;Italy;Brut Rosé;89;55;Lombardy;Franciacorta;La Valle
+15870;Italy;Bussia;89;40;Piedmont;Barolo;Arbéta
+15874;Italy;Pilin;89;39;Piedmont;Gavi;Castellari Bergaglio
+15880;Italy;Enritard;89;25;Piedmont;Roero;Cornarea
+15889;Italy;Villa Gresti;89;50;Northeastern Italy;Vigneti delle Dolomiti;Tenuta San Leonardo
+15915;Italy;Alègre;88;20;Sicily & Sardinia;Terre Siciliane;Barone Sergio
+15917;Italy;Solstizio Riserva;88;33;Central Italy;Romagna;Battistini
+15925;Italy;Perlé;91;38;Northeastern Italy;Trento;Ferrari
+15933;Italy;La Marega;91;92;Veneto;Amarone della Valpolicella Classico;Le Salette
+15939;Italy;Brut Riserva;90;52;Northeastern Italy;Trento;Maso Martis
+15940;Italy;Dosaggiozero Riserva;90;52;Northeastern Italy;Trento;Maso Martis
+15946;Italy;Duemilaotto Metodo Classico;90;40;Italy Other;Vino Spumante;Rivetti Massimo
+16024;Italy;Dellago;88;22;Northeastern Italy;Alto Adige;Cantina Produttori Bolzano S. Maddalena/Gries
+16025;Italy;Sanct Valentin;88;38;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+16032;Italy;Tazzelenghe;88;24;Northeastern Italy;Colli Orientali del Friuli;Jacùss
+16039;Italy;Il Cascinone Alasia Brut Metodo Classico;87;25;Piedmont;Alta Langa;Araldica
+16062;Italy;Francesco Galliano Blanc de Blancs Metodo Classico;87;29;Italy Other;Vino Spumante;Borgo Maragliano
+16067;Italy;Brut Metodo Classico;87;21;Italy Other;Vino Spumante;Loredan Gasparini
+16130;Italy;Pora;93;46;Piedmont;Barbaresco;Musso
+16142;Italy;Liste;93;86;Piedmont;Barolo;Damilano
+16154;Italy;Bricco Ambrogio;92;70;Piedmont;Barolo;Negretti
+16155;Italy;Bordini;92;40;Piedmont;Barbaresco;Elvio Cogno
+16157;Italy;Vigneto Cerequio;92;75;Piedmont;Barolo;Beni di Batasiolo
+16162;Italy;Ventidue;93;35;Southern Italy;Fiano di Avellino;Villa Raiano
+16163;Italy;De La Tour;93;55;Northeastern Italy;Collio;Villa Russiz
+16169;Italy;Vigne di Catullo Riserva;93;24;Lombardy;Lugana;Tenuta Roveglia
+16210;Italy;Isolanuda;90;29;Sicily & Sardinia;Etna;Destro
+16224;Italy;Cumalè;87;18;Southern Italy;Cilento;Casebianche
+16229;Italy;Jalé;87;35;Sicily & Sardinia;Sicilia;Cusumano
+16238;Italy;Benedè;87;16;Sicily & Sardinia;Sicilia;Alessandro di Camporeale
+16249;Italy;Coste al Vento;86;28;Sicily & Sardinia;Sicilia;Marilena Barbera
+16250;Italy;Bianco;86;10;Sicily & Sardinia;Etna;Murgo
+16258;Italy;Bianco;86;13;Sicily & Sardinia;Terre Siciliane;Colosi
+16263;Italy;Giambattista Valli;86;30;Sicily & Sardinia;Cerasuolo di Vittoria;Feudi del Pisciotto
+16268;Italy;Rosso delle Rose;86;15;Sicily & Sardinia;Sicilia;Masseria del Feudo
+16274;Italy;Aglaea Rosso;86;23;Sicily & Sardinia;Etna;Tenuta di Aglaea
+16279;Italy;Villa al Cortile Riserva;87;60;Tuscany;Brunello di Montalcino;Piccini
+16283;Italy;Due Sorelle Riserva;87;60;Tuscany;Brunello di Montalcino;Tenuta La Fuga
+16284;Italy;Noi 4;87;42;Tuscany;Bolgheri;Tenuta Sette Cieli
+16292;Italy;Sorugo;87;40;Tuscany;Bolgheri Superiore;Aia Vecchia
+16306;Italy;Vigna Manapetra Riserva;87;58;Tuscany;Brunello di Montalcino;Fattoria La Lecciaia
+16316;Italy;Montestefano Riserva;94;58;Piedmont;Barbaresco;Produttori del Barbaresco
+16319;Italy;Tre Vigne;94;42;Piedmont;Gattinara;Travaglini
+16346;Italy;I Macchioni;87;15;Tuscany;Vernaccia di San Gimignano;Casa alle Vacche
+16355;Italy;Riserva;87;22;Tuscany;Chianti Classico;Piccini
+16364;Italy;Vigna del Cristo;92;18;Central Italy;Lambrusco di Sorbara;Cavicchioli
+16383;Italy;Coste di Rose;92;59;Piedmont;Barolo;Bric Cenciurio
+16387;Italy;Serraboella;92;44;Piedmont;Barbaresco;Cigliuti
+16407;Italy;Refiano;87;25;Southern Italy;Fiano di Avellino;Tenuta Cavalier Pepe
+16408;Italy;PerEva;87;24;Southern Italy;Costa d'Amalfi;Tenuta San Francesco
+16409;Italy;Loggia della Serra;87;23;Southern Italy;Greco di Tufo;Terredora
+16416;Italy;Pendino;87;13;Southern Italy;Fiano di Avellino;Colli di Castelfranci
+16424;Italy;Sairus;89;25;Southern Italy;Campania;Montesole
+16439;Italy;Aglianico dal Re;89;23;Southern Italy;Irpinia;Feudi di San Gregorio
+16441;Italy;Gudarrà;89;25;Southern Italy;Aglianico del Vulture;Bisceglia
+16484;Italy;Robanera;88;12;Central Italy;Lambrusco Grasparossa di Castelvetro;Cavicchioli
+16492;Italy;La Poja;93;95;Veneto;Veronese;Allegrini
+16493;Italy;Fracastoro Riserva;93;94;Veneto;Amarone della Valpolicella Classico;Vigneti Villabella
+16507;Italy;La Fabriseria Riserva;93;250;Veneto;Amarone della Valpolicella Classico;Tedeschi
+16523;Italy;Prapò;97;75;Piedmont;Barolo;Germano Ettore
+16526;Italy;Ronchi;96;55;Piedmont;Barbaresco;Albino Rocca
+16527;Italy;Sarmassa;96;70;Piedmont;Barolo;Brezza
+16530;Italy;Angelo;96;98;Piedmont;Barbaresco;Albino Rocca
+16534;Italy;Cerretta;95;75;Piedmont;Barolo;Germano Ettore
+16545;Italy;Terra di Siena;84;12;Tuscany;Chianti Colli Senesi;Tenuta di Trecciano
+16559;Italy;Rubbia al Colle Drumo;83;15;Tuscany;Toscana;Fratelli Muratori
+16576;Italy;Il Sole di Alessandro;92;70;Tuscany;Colli della Toscana Centrale;Castello di Querceto
+16587;Italy;Bramasole;92;39;Tuscany;Cortona;La Braccesca
+16596;Italy;Re di Renieri;92;30;Tuscany;Toscana;Renieri
+16601;Italy;Puro Riserva;86;17;Tuscany;Chianti;Fattoria Lavacchio
+16620;Italy;Riserva;86;24;Tuscany;Chianti Classico;Sensi
+16624;Italy;Riserva;86;13;Tuscany;Chianti Montalbano;Tenuta Pierazzuoli
+16625;Italy;Poggio ai Grilli;86;13;Tuscany;Chianti;Tenuta San Jacopo
+16629;Italy;Reyna;93;39;Piedmont;Barbaresco;Michele Chiarlo
+16636;Italy;del Comune di Serralunga d'Alba;93;75;Piedmont;Barolo;Rivetto
+16641;Italy;del Comune di Serralunga d'Alba;93;45;Piedmont;Barolo;Fontanafredda
+16642;Italy;Vigna Rionda Riserva;93;140;Piedmont;Barolo;Massolino
+16643;Italy;Margheria;93;99;Piedmont;Barolo;Massolino
+16646;Italy;Cannubi;93;100;Piedmont;Barolo;Paolo Scavino
+16695;Italy;Grésy;88;22;Piedmont;Langhe;Tenute Cisa Asinari dei Marchesi di Gresy
+16701;Italy;Castagnolo;88;15;Central Italy;Orvieto Classico Superiore;Barberani
+16707;Italy;Stemmari;88;9;Sicily & Sardinia;Sicilia;Feudo Arancio
+16713;Italy;Adènzia;88;18;Sicily & Sardinia;Sicilia;Baglio del Cristo di Campobello
+16770;Italy;Cannubi;98;60;Piedmont;Barolo;Brezza
+16771;Italy;Monvigliero;98;70;Piedmont;Barolo;Comm. G. B. Burlotto
+16772;Italy;Vigna Rionda Riserva;98;151;Piedmont;Barolo;Massolino
+16773;Italy;Brunate;98;300;Piedmont;Barolo;Giuseppe Rinaldi
+16774;Italy;Ravera;97;82;Piedmont;Barolo;Elvio Cogno
+16778;Italy;Il Bruciato;89;32;Tuscany;Bolgheri;Guado al Tasso
+16779;Italy;Fontego;89;10;Veneto;Soave;La Cappuccina
+16787;Italy;Perceptum;89;30;Tuscany;Toscana;Tenuta Santo Pietro
+16794;Italy;Riserva;89;35;Tuscany;Chianti Classico;Fattoria di Montemaggio
+16795;Italy;Campo Serà;89;11;Lombardy;Lugana Superiore;Fraccaroli
+16797;Italy;Le Creete;89;25;Lombardy;Lugana;Ottella
+16798;Italy;Vendemmia Tardiva;89;31;Lombardy;Lugana;Perla del Garda
+16806;Italy;Mirus;88;30;Tuscany;Maremma;Mocali
+16810;Italy;Rubio;88;15;Tuscany;Toscana;San Polo
+16819;Italy;Campo Novo;88;16;Central Italy;Cesanese del Piglio;Casale della Ioria
+16829;Italy;Alagna Superiore;87;18;Central Italy;Cesanese del Piglio;Marcella Giuliani
+16844;Italy;Isonzio;82;15;Northeastern Italy;Friuli Venezia Giulia;Pierpaolo Pecorari
+16846;Italy;Le Mandorlae;80;11;Tuscany;Morellino di Scansano;Baroncini
+16862;Italy;Brut;85;22;Veneto;Prosecco di Valdobbiadene;Drusian
+16865;Italy;Extra Dry;85;19;Veneto;Prosecco di Valdobbiadene;Varaschin
+16868;Italy;Il Prosecco;85;10;Veneto;Prosecco del Veneto;Mionetto
+16879;Italy;Col di Luna Extra Dry;85;17;Veneto;Prosecco del Veneto;Bellenda
+16881;Italy;Rollmatt Brut;85;22;Veneto;Prosecco di Conegliano e Valdobbiadene;Vigne Matte
+16889;Italy;Versace;85;30;Sicily & Sardinia;Terre Siciliane;Feudi del Pisciotto
+16907;Italy;Chiaramonte;85;15;Sicily & Sardinia;Terre Siciliane;Firriato
+16925;Italy;Vigneti di Monteforte;86;16;Veneto;Soave Classico;Santi
+16926;Italy;Le Fornaci;86;15;Lombardy;Lugana;Tommasi
+16931;Italy;K;86;10;Northeastern Italy;Vigneti delle Dolomiti;Kellerei Kaltern Caldaro
+16936;Italy;Il Pigno;86;24;Veneto;Soave Classico;Marcato
+16939;Italy;Perla;86;21;Lombardy;Lugana;Perla del Garda
+16944;Italy;Rosé;86;24;Northeastern Italy;Vigneti delle Dolomiti;Casata Monfort
+16961;Italy;Riserva;90;35;Northeastern Italy;Collio;Russiz Superiore
+16978;Italy;Poggio alle Sughere;84;19;Tuscany;Morellino di Scansano;Castello di Monastero
+16994;Italy;Vigneto San Marcellino;84;50;Tuscany;Chianti Classico;Rocca di Montegrossi
+16999;Italy;Tulin;92;69;Piedmont;Barbaresco;Pelissero
+17004;Italy;Bricco Gattera;92;75;Piedmont;Barolo;Cordero di Montezemolo
+17005;Italy;Cannubi;92;87;Piedmont;Barolo;Damilano
+17006;Italy;Liste;92;85;Piedmont;Barolo;Damilano
+17011;Italy;Pernanno;92;79;Piedmont;Barolo;Cascina Bongiovanni
+17014;Italy;Vigna Mandorlo;92;70;Piedmont;Barolo;Giacosa Fratelli
+17018;Italy;Vanotu;92;99;Piedmont;Barbaresco;Pelissero
+17022;Italy;Al Posto dei Fiori Rosato;90;23;Piedmont;Coste della Sesia;Le Pianelle
+17023;Italy;Serradenari Fossati;90;75;Piedmont;Barolo;Dosio
+17064;Italy;15;85;17;Northeastern Italy;Alto Adige;Castelfeder
+17078;Italy;Castel Pietra;85;13;Northeastern Italy;Vigneti delle Dolomiti;Mezzacorona
+17082;Italy;Naturae;92;45;Lombardy;Franciacorta;Barone Pizzini
+17085;Italy;Dosaggio Zero;92;30;Veneto;Valdobbiadene Prosecco Superiore;Ca' dei Zago
+17119;Italy;Riserva;88;23;Central Italy;Montepulciano d'Abruzzo;Fattoria Giuseppe Savini
+17128;Italy;Magnificat;87;38;Central Italy;Forlì;Drei Donà Tenuta La Palazza
+17129;Italy;Notturno;87;17;Central Italy;Forlì;Drei Donà Tenuta La Palazza
+17132;Italy;Modà;87;11;Central Italy;Montepulciano d'Abruzzo;Talamonti
+17134;Italy;Montipagano;87;12;Central Italy;Montepulciano d'Abruzzo;Umani Ronchi
+17135;Italy;Moma;87;19;Central Italy;Rubicone;Umberto Cesari
+17160;Italy;15;84;19;Central Italy;Lambrusco Grasparossa di Castelvetro;La Battagliola
+17170;Italy;Schietto;89;35;Sicily & Sardinia;Sicilia;Spadafora
+17177;Italy;Belsito;89;16;Sicily & Sardinia;Vittoria Frappato;Terre di Giurfo
+17187;Italy;Leone d'Almerita;89;20;Sicily & Sardinia;Sicilia;Tasca d'Almerita
+17195;Italy;Triskelè;89;40;Sicily & Sardinia;Sicilia;Duca di Salaparuta
+17197;Italy;Rosato;89;20;Sicily & Sardinia;Etna;Graci
+17223;Italy;Nutaru Metodo Classico;86;18;Italy Other;Vino Spumante;Avide
+17242;Italy;Citto;86;13;Tuscany;Toscana;Volpaia
+17286;Italy;Vigneto Monte Sant'Urbano;94;80;Veneto;Amarone della Valpolicella Classico;Speri
+17295;Italy;Il Bosco;94;90;Veneto;Amarone della Valpolicella Classico;Cesari
+17303;Italy;Ambrosan;93;88;Veneto;Amarone della Valpolicella Classico;Nicolis
+17314;Italy;Aristos;89;18;Northeastern Italy;Alto Adige Valle Isarco;Cantina Valle Isarco
+17334;Italy;Agostino Petri;90;25;Tuscany;Chianti Classico;Castello Vicchiomaggio
+17343;Italy;Vigna Doghessa;90;32;Tuscany;Chianti Classico;Nittardi
+17352;Italy;Vigna Istine;90;40;Tuscany;Chianti Classico;Istine
+17393;Italy;Sjre;85;20;Southern Italy;Salento;Mocavero
+17432;Italy;Bricco dei Merli;87;26;Piedmont;Barbera d'Alba;Azienda Agricola Cogno
+17445;Italy;La Romualda;87;30;Piedmont;Barbera d'Alba;Principiano Ferdinando
+17465;Italy;Capitel San Rocco;88;22;Veneto;Valpolicella Superiore Ripasso;Tedeschi
+17466;Italy;Il Sestante;88;20;Veneto;Valpolicella Classico Superiore Ripasso;Tommasi
+17470;Italy;Campo San Vito;88;25;Veneto;Valpolicella Classico Superiore Ripasso;Villa Monteleone
+17505;Italy;Murellaia;89;50;Southern Italy;Sannio;DeLucia Vineyards
+17506;Italy;Vajasindi Làvico;89;19;Sicily & Sardinia;Sicilia;Duca di Salaparuta
+17520;Italy;Formigar Cornell;89;39;Northeastern Italy;Alto Adige;Colterenzio
+17548;Italy;Rosé de Noir Brut Metodo Classico;86;30;Italy Other;Vino Spumante;Ambo Secco
+17561;Italy;Dry;86;15;Veneto;Valdobbiadene Prosecco Superiore;La Riva dei Frati
+17590;Italy;Petaso;87;26;Tuscany;Rosso di Montepulciano;Montemercurio
+17592;Italy;Bricco Paradiso;87;30;Piedmont;Barbera d'Asti;Il Falchetto
+17595;Italy;Costalunga;87;18;Piedmont;Barbera d'Asti Superiore;Bersano
+17606;Italy;Serraboella;87;50;Piedmont;Barbaresco;Rivetti Massimo
+17627;Italy;Stern;87;20;Northeastern Italy;Alto Adige;Erste Neue
+17628;Italy;Vitiano;87;10;Central Italy;Umbria;Falesco
+17632;Italy;Poggio Calvelli;87;16;Central Italy;Orvieto Classico Superiore;La Carraia
+17633;Italy;Terrarossa;87;20;Piedmont;Gavi;La Zerba
+17636;Italy;Foresco;87;18;Central Italy;Umbria;Barberani
+17637;Italy;Adriatico;87;18;Northeastern Italy;Colli Orientali del Friuli;Bastianich
+17641;Italy;Montiggl;87;20;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+17642;Italy;Grey Label;87;20;Northwestern Italy;Colli di Luni;Cantine Lunae Bosoni
+17646;Italy;Traminer Aromatico;87;22;Northeastern Italy;Alto Adige;Josef Weger
+17657;Italy;Aquilis;92;25;Northeastern Italy;Friuli Aquileia;Tenuta Cà Bolani
+17676;Italy;Riserva del Lupo;92;29;Lombardy;Lugana;Cà Lojera
+17692;Italy;Allegro Amabile;84;10;Central Italy;Lambrusco di Sorbara;Cantina di Sorbara
+17693;Italy;Allegro Amabile Rosé;84;10;Central Italy;Lambrusco di Sorbara;Cantina di Sorbara
+17712;Italy;Monte Tenda;87;17;Veneto;Soave Classico;Marcato
+17716;Italy;Movado;87;48;Northeastern Italy;Alto Adige;Andriano
+17717;Italy;Tufaie;87;13;Veneto;Soave Classico Superiore;Bolla
+17718;Italy;Aristos;87;18;Northeastern Italy;Alto Adige Valle Isarco;Cantina Valle Isarco
+17724;Italy;Torre;87;26;Lombardy;Lugana;Citari
+17732;Italy;Bricco Pernice;94;103;Piedmont;Barolo;Elvio Cogno
+17748;Italy;Vigna Elena Riserva;94;106;Piedmont;Barolo;Elvio Cogno
+17751;Italy;Leon Riserva;94;96;Piedmont;Barolo;Rivetto
+17797;Italy;Vigna Contessa Luisa Gran Selezione;85;60;Tuscany;Chianti Classico;Villa Calcinaia
+17815;Italy;Riesling;86;25;Northeastern Italy;Venezia Giulia;Marco Cecchini
+17816;Italy;Modello delle Venezie;86;10;Northeastern Italy;Venezie;Masi
+17820;Italy;Ronchi di Pietro;86;18;Northeastern Italy;Colli Orientali del Friuli;Zorzettig
+17827;Italy;Pinot Bianco;86;25;Northeastern Italy;Colli Orientali del Friuli;Scubia
+17837;Italy;Le Lune;86;14;Piedmont;Gavi;Marchesi di Barolo
+17869;Italy;Vitiano;88;14;Central Italy;Umbria;Falesco
+17876;Italy;Cratis;88;36;Northeastern Italy;Colli Orientali del Friuli;Scubla
+17896;Italy;Titulus;85;13;Central Italy;Verdicchio dei Castelli di Jesi;Fazi Battaglia
+17902;Italy;Selezione Frassineto;85;23;Central Italy;Colli Piacentini;Tenuta Villa Tavernago
+17903;Italy;Podere;85;10;Central Italy;Montepulciano d'Abruzzo;Umani Ronchi
+17929;Italy;La Villa;87;16;Piedmont;Barbera d'Asti;Tenuta Olim Bauda
+17930;Italy;Tradizione;87;17;Piedmont;Barbera d'Alba;Tre Donne
+17937;Italy;La Briosa;87;20;Piedmont;Barbera del Monferrato;Montalbera
+17949;Italy;Otre Fish;88;17;Southern Italy;Puglia;Teanum
+17952;Italy;Bocca di Lupo;88;46;Southern Italy;Castel del Monte;Tormaresca
+17953;Italy;Torcicoda;88;19;Southern Italy;Salento;Tormaresca
+17958;Italy;Orfeo;88;20;Southern Italy;Puglia;Cantine Paolo Leo
+17969;Italy;Elo Veni;88;17;Southern Italy;Salento;Leone de Castris
+18003;Italy;Pajoré;92;57;Piedmont;Barbaresco;Rizzi
+18006;Italy;Serralunga;92;31;Piedmont;Barolo;Giovanni Rosso
+18007;Italy;Vigna Lazzairasco;92;44;Piedmont;Barolo;Guido Porro
+18018;Italy;Parafada;92;65;Piedmont;Barolo;Palladino
+18021;Italy;Gabutti Bussia;92;60;Piedmont;Barolo;Stroppiana
+18071;Italy;Rosato;90;17;Sicily & Sardinia;Etna;Cottanera
+18072;Italy;Shamaris;90;20;Sicily & Sardinia;Sicilia;Cusumano
+18083;Italy;Coniale;91;45;Tuscany;Toscana;Castellare di Castellina
+18092;Italy;Balifico;91;60;Tuscany;Toscana;Volpaia
+18099;Italy;Gagliole;91;85;Tuscany;Colli della Toscana Centrale;Gagliole
+18100;Italy;Poggio ai Merli;91;75;Tuscany;Toscana;Castellare di Castellina
+18123;Italy;Costamolino;89;16;Sicily & Sardinia;Vermentino di Sardegna;Argiolas
+18127;Italy;Bianco;89;20;Southern Italy;Lacryma Christi del Vesuvio;Mastroberardino
+18128;Italy;Melizie Passito;89;45;Southern Italy;Irpinia;Mastroberardino
+18137;Italy;Traluna;88;16;Tuscany;Toscana;Tenuta Villa Trasqua
+18167;Italy;Riserva;90;35;Tuscany;Vino Nobile di Montepulciano;Carpineto
+18168;Italy;Gran Selezione;90;45;Tuscany;Chianti Classico;Casa Sola
+18192;Italy;Papeo;90;35;Tuscany;Toscana;Terre del Marchesato
+18253;Italy;Cannubi;92;108;Piedmont;Barolo;Poderi Luigi Einaudi
+18274;Italy;Bramaluce;89;23;Tuscany;Maremma Toscana;Terenzi
+18277;Italy;Amaranto;88;19;Tuscany;Maremma Toscana;Podere San Cristoforo
+18279;Italy;Brolio;88;20;Tuscany;Chianti Classico;Barone Ricasoli
+18287;Italy;Tuforosso;88;12;Tuscany;Maremma;Sassotondo
+18296;Italy;Terra di Monteverro;91;75;Tuscany;Toscana;Monteverro
+18300;Italy;Riserva;91;26;Tuscany;Chianti Classico;Renieri
+18301;Italy;Le Sughere di Frassinello;91;33;Tuscany;Maremma;Rocca di Frassinello
+18302;Italy;Villa Donoratico;91;32;Tuscany;Bolgheri;Tenuta Argentiera
+18303;Italy;Caburnio;91;22;Tuscany;Toscana;Tenuta Monteti
+18307;Italy;Varvàra;91;30;Tuscany;Bolgheri;Castello di Bolgheri
+18308;Italy;Il Borro;91;37;Tuscany;Toscana;Il Borro
+18313;Italy;Kappa;91;12;Tuscany;Toscana;Fattoria Kappa
+18316;Italy;Corbaia;91;65;Tuscany;Toscana;Castello di Bossi
+18317;Italy;Bellezza;91;30;Tuscany;Chianti Classico;Castello di Gabbiano
+18329;Italy;Terrale Oro;83;10;Sicily & Sardinia;Sicilia;Calatrasi
+18334;Italy;Castello Svevo;83;16;Sicily & Sardinia;Sicilia;Azienda Agricola Milazzo
+18345;Italy;Gerbino;82;16;Sicily & Sardinia;Sicilia;Di Giovanna
+18379;Italy;Digià;87;18;Tuscany;Toscana;Batzella
+18386;Italy;Sanct Valentin;88;40;Northeastern Italy;Alto Adige;Cantina Produttori San Michele Appiano
+18388;Italy;Turian;88;24;Northeastern Italy;Colli Orientali del Friuli;Collavini
+18389;Italy;Furlana;88;20;Northeastern Italy;Collio;Conti Formentini
+18404;Italy;Mongris Riserva;88;30;Northeastern Italy;Collio;Marco Felluga
+18405;Italy;Blanc des Rosis;88;28;Northeastern Italy;Venezia Giulia;Mario Schiopetto
+18426;Italy;Krafuss;91;50;Northeastern Italy;Alto Adige;Alois Lageder
+18442;Italy;Silvì Metodo Classico Riserva Rosé;92;55;Piedmont;Alta Langa;Colombo
+18454;Italy;Carapace;92;38;Central Italy;Montefalco Sagrantino;Tenute Lunelli
+18457;Italy;Margheria;92;95;Piedmont;Barolo;Azelia
+18470;Italy;Vigna La Rosa;92;119;Piedmont;Barolo;Fontanafredda
+18510;Italy;Eoos;90;20;Northeastern Italy;Colli Orientali del Friuli;Comelli
+18517;Italy;Montessu;90;35;Sicily & Sardinia;Isola dei Nuraghi;Agricola Punica
+18544;Italy;Banditella;87;30;Tuscany;Rosso di Montalcino;Col d'Orcia
+18561;Italy;La Preosa;86;20;Veneto;Valpolicella Classico Superiore Ripasso;Carlo Boscaini
+18577;Italy;Vigneto Sant'Urbano;86;32;Veneto;Valpolicella Classico Superiore;Speri
+18593;Italy;Castello di Spaltenna;84;18;Tuscany;Chianti Classico;Villa Vignamaggio
+18640;Italy;Riserva;90;54;Central Italy;Montefalco Rosso;Arnaldo Caprai
+18652;Italy;Passito;90;33;Central Italy;Sagrantino di Montefalco;Còlpetrone
+18653;Italy;Etnico;90;35;Central Italy;Sagrantino di Montefalco;Di Filippo
+18659;Italy;Ceppate;92;69;Tuscany;Toscana;Terrabianca
+18675;Italy;Olmaia;92;75;Tuscany;Sant'Antimo;Col d'Orcia
+18689;Italy;Serra del Conte;85;10;Central Italy;Verdicchio dei Castelli di Jesi Classico;Garofoli
+18702;Italy;La Meirana del Comune di Gavi;85;15;Piedmont;Gavi;Broglia
+18711;Italy;Masseria Maime;91;35;Southern Italy;Salento;Tormaresca
+18714;Italy;Ai Livelli;91;52;Piedmont;Ghemme;Tiziano Mazzoni
+18719;Italy;Privilegio Passito;91;63;Southern Italy;Irpinia;Feudi di San Gregorio
+18733;Italy;Riserva;91;100;Piedmont;Barolo;Marchesi di Barolo
+18738;Italy;L'Emozione;90;30;Southern Italy;Aglianico del Vulture;Ofanto
+18741;Italy;Molamatta;88;23;Northeastern Italy;Collio;Marco Felluga
+18770;Italy;Cru Perdu Millesimato;88;45;Lombardy;Franciacorta;Castello Bonomi
+18822;Italy;Fiore di Campo;87;22;Northeastern Italy;Venezia Giulia;Lis Neris
+18829;Italy;Nina;87;17;Veneto;Veneto;Cà Di Rajo
+18846;Italy;Raccontami;90;55;Southern Italy;Primitivo di Manduria;Futura 14
+18864;Italy;Magnus;89;36;Southern Italy;Puglia;Ognissole
+18865;Italy;Metiusco;89;22;Southern Italy;Salento;Palamà
